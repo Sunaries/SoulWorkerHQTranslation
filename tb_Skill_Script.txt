@@ -11,7 +11,7 @@ As the skill level increases, the combo variation will also increase.
 SG will be gained on attacks.
 SG gain amount is affected by combo counter and monster grade.
 
-[Controls : Ground]
+[Controls: Ground]
 Mouse：(Left Click)×4
 
 [Controls：Air]
@@ -263,16 +263,16 @@ Quickly move towards the designated location.
 You are invulnerable to damage while dodging.
 
 [Controls]
-Mouse：
-[1](移動キー)+(Shiftキー)
-[2](移動キー)二回入力
+Mouse:
+[1](Directional Key)+(Shift Key)
+[2]Press (Directional Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 Rolling Up Ⅰ
 [Skill Information]
-Stamina Cost：[25]
+Stamina Cost: [25]
 
 Roll towards the designated diretion from the knocked down state.
 You are invulnerable to damage while rolling.
@@ -310,100 +310,99 @@ LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
-ダッシュⅠ
-前方に素早くダッシュする。
+Dash Ⅰ
+Fastly dash forward.
 
 [Controls]
-Mouse:(前方移動キー)二回入力
-ダッシュの速度が上昇する。
+Mouse: Press (Forward Directional Key) twice.
+Dash speed increases.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
-ダッシュⅡ
-前方に素早くダッシュする。
+Dash Ⅱ
+Fastly dash forward.
 
 [Controls]
-Mouse:(前方移動キー)二回入力
+Mouse: Press (Forward Directional Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
-起床攻撃Ⅰ
-[スキル情報]
+Rising Up Ⅰ
+[Skill Information]
 Damage:[100%]
 Stamina Cost:[30]
-Cooldown:[15秒]
-スキル使用後1秒間、無敵状態になる。
+Cooldown:[15 sec]
+You are invulnerable for a second after using the skill.
 
-ダウン時、周辺の敵を攻撃しながら起き上がる。
+Rise up from a knocked down state, attacking all surrounding enemies.
 
 [Controls]
-マウス：ダウン中(左/右クリック)
-Stamina Cost:[30]-10
+Mouse: (Left/Right Click) during knocked down state
+Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
-起床攻撃Ⅱ
-[スキル情報]
-Damage:[100%]
-Stamina Cost:[20]
-Cooldown:[15秒]
-スキル使用後1秒間、無敵状態になる。
+Rising Up Ⅱ
+[Skill Information]
+Damage: [100%]
+Stamina Cost: [20]
+Cooldown: [15 sec]
+You are invulnerable for a second after using the skill.
 
-ダウン時、周辺の敵を攻撃しながら起き上がる。
+Rise up from a knocked down state, attacking all surrounding enemies.
 
 [Controls]
-マウス：ダウン中(左/右クリック)
-無敵時間が2秒増加する。
+Mouse: (Left/Right Click) during knocked down state
+You are invulnerable for two seconds after using the skill.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
-起床攻撃Ⅲ
-[スキル情報]
-Damage:[100%]
-Stamina Cost:[20]
-Cooldown:[15秒]
-スキル使用後3秒間、無敵状態になる。
-
-ダウン時、周辺の敵を攻撃しながら起き上がる。
+Rising Up Ⅲ
+[Skill Information]
+Damage: [100%]
+Stamina Cost: [20]
+Cooldown: [15 sec]
+You are invulnerable for three seconds after using the skill.
+Rise up from a knocked down state, attacking all surrounding enemies.
 
 [Controls]
-マウス：ダウン中(左/右クリック)
+Mouse: (Left/Right Click) during knocked down state
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
-ダッシュアタックⅠ
-[スキル情報]
-Damage:[116%]
-SA破壊量：[46%]
+Dash Attack Ⅰ
+[Skill Information]
+Damage: [116%]
+SA Destruction: [46%]
 
-ダッシュ中に剣を大きく振り敵を押し出す。
-攻撃時、SGを獲得。
-SG獲得量は連係段階とモンスター等級に応じて増加する。
+Slashes the sword while dashing, pushing away enemies.
+SG is gained on hit.
+SG gain amount is affected by combo counter and monster grade.
 
 [Controls]
-マウス：ダッシュ中(左クリック)
+Mouse: (Left Click) while dashing
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 
-特殊回避Ⅰ
-[スキル情報]
+Special Dodge Ⅰ
+[Skill Information]
 Stamina Cost:[40]
-Cooldown:[60秒]
+Cooldown:[60 sec]
 
-敵から攻撃を受けている最中に素早く移動する。
-特殊回避中はダメージを受けない。
+Quickly dodge while being attacked by monsters.
+You are invulnerable from damage during Special Dodge.
 
 [Controls]
-マウス：ダメージ中(移動キー)+(Shiftキー)
-Cooldown:[50秒]-10秒
+Mouse: (Directional Key)+(Shift Key) while getting hit
+Cooldown:[50 sec]-10 sec
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 特殊回避Ⅱ
-[スキル情報]
+[Skill Information]
 Stamina Cost:[40]
 Cooldown:[50秒]
 
@@ -417,7 +416,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 特殊回避Ⅲ
-[スキル情報]
+[Skill Information]
 Stamina Cost:[40]
 Cooldown:[40秒]
 
@@ -431,7 +430,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 特殊ダッシュアタックⅠ
-[スキル情報]
+[Skill Information]
 Damage:[206%]
 SA破壊量：[92%]
 Cooldown:[5秒]
@@ -447,7 +446,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
 ノックダウン脱出Ⅰ
-[スキル情報]
+[Skill Information]
 ノックダウン脱出使用時、スタミナを35消費する。
 クールタイム：5秒
 
@@ -460,7 +459,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ノックダウン脱出Ⅱ
-[スキル情報]
+[Skill Information]
 ノックダウン脱出使用時、スタミナを30消費する。
 クールタイム：5秒
 
@@ -473,7 +472,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ノックダウン脱出Ⅲ
-[スキル情報]
+[Skill Information]
 ノックダウン脱出使用時、スタミナを25消費する。
 クールタイム：5秒
 
@@ -486,7 +485,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 復讐の剣Ⅰ
-[スキル情報]
+[Skill Information]
 通常攻撃成功時、SGを回復する。
 一定時間ごとに自動でSGを回復する。
 LvMax
@@ -494,7 +493,7 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
 果てなき闘争Ⅰ
-[スキル情報]
+[Skill Information]
 パッシブ効果：攻撃力[5%]増加
 
 攻撃力が増加する。
@@ -503,7 +502,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
 
 果てなき闘争Ⅱ
-[スキル情報]
+[Skill Information]
 パッシブ効果：攻撃力[10%]増加
 
 攻撃力が増加する。
@@ -512,7 +511,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
 
 果てなき闘争Ⅲ
-[スキル情報]
+[Skill Information]
 パッシブ効果：攻撃力[15%]増加
 
 攻撃力が増加する。
@@ -521,7 +520,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
 
 スタミナマスタリーⅠ
-[スキル情報]
+[Skill Information]
 パッシブ効果：スタミナ回復量[10%]増加
 
 スタミナ回復量が増加する。
@@ -530,7 +529,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 スタミナマスタリーⅡ
-[スキル情報]
+[Skill Information]
 パッシブ効果：スタミナ回復量[20%]増加
 
 スタミナ回復量が増加する。
@@ -539,7 +538,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 スタミナマスタリーⅢ
-[スキル情報]
+[Skill Information]
 パッシブ効果：スタミナ回復量[30%]増加
 
 スタミナ回復量が増加する。
@@ -548,7 +547,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 スタミナマスタリーⅣ
-[スキル情報]
+[Skill Information]
 パッシブ効果：スタミナ回復量[40%]増加
 
 スタミナ回復量が増加する。
@@ -557,7 +556,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 スタミナマスタリーⅤ
-[スキル情報]
+[Skill Information]
 パッシブ効果：スタミナ回復量[50%]増加
 
 スタミナ回復量が増加する。
@@ -715,7 +714,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
 ピアスステップⅠ
-[スキル情報]
+[Skill Information]
 Damage:[83%]
 SA破壊量：[330%]
 SG消費量：[30]
@@ -731,7 +730,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ピアスステップⅡ
-[スキル情報]
+[Skill Information]
 Damage:[87%]
 SA破壊量：[347%]
 SG消費量：[30]
@@ -747,7 +746,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ピアスステップⅢ
-[スキル情報]
+[Skill Information]
 Damage:[97%]
 SA破壊量：[388%]
 SG消費量：[30]
@@ -763,7 +762,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ピアスステップⅣ
-[スキル情報]
+[Skill Information]
 Damage:[108%]
 SA破壊量：[429%]
 SG消費量：[30]
@@ -779,7 +778,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ピアスステップⅤ
-[スキル情報]
+[Skill Information]
 Damage:[124%]
 SA破壊量：[495%]
 SG消費量：[30]
@@ -794,7 +793,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 スピンカッターⅠ
-[スキル情報]
+[Skill Information]
 Damage:[178%]
 SA破壊量：[92%]
 SG消費量：[35]
@@ -810,7 +809,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 スピンカッターⅡ
-[スキル情報]
+[Skill Information]
 Damage:[187%]
 SA破壊量：[96%]
 SG消費量：[35]
@@ -826,7 +825,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 スピンカッターⅢ
-[スキル情報]
+[Skill Information]
 Damage:[209%]
 SA破壊量：[108%]
 SG消費量：[35]
@@ -842,7 +841,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 スピンカッターⅣ
-[スキル情報]
+[Skill Information]
 Damage:[231%]
 SA破壊量：[119%]
 SG消費量：[35]
@@ -858,7 +857,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 スピンカッターⅤ
-[スキル情報]
+[Skill Information]
 Damage:[267%]
 SA破壊量：[138%]
 SG消費量：[35]
@@ -873,7 +872,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 ブローアップⅠ
-[スキル情報]
+[Skill Information]
 バフ効果：スタミナ消費量[50%]減少
 バフ持続時間：[6秒]
 SG消費量：[80]
@@ -888,7 +887,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ブローアップⅡ
-[スキル情報]
+[Skill Information]
 バフ効果：スタミナ消費量[50%]減少
 バフ持続時間：[8秒]
 SG消費量：[80]
@@ -904,7 +903,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ブローアップⅢ
-[スキル情報]
+[Skill Information]
 バフ効果：スタミナ消費量[60%]減少
 バフ持続時間：[10秒]
 SG消費量：[80]
@@ -920,7 +919,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ブローアップⅣ
-[スキル情報]
+[Skill Information]
 バフ効果：スタミナ消費量[70%]減少
 バフ持続時間：[12秒]
 SG消費量：[80]
@@ -936,7 +935,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ブローアップⅤ
-[スキル情報]
+[Skill Information]
 バフ効果：スタミナ消費量[80%]減少
 バフ持続時間：[15秒]
 SG消費量：[80]
@@ -951,7 +950,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ブレードクエイクⅠ
-[スキル情報]
+[Skill Information]
 Damage:[212%]
 SA破壊量：[444%]
 SG消費量：[45]
@@ -967,7 +966,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
 ブレードクエイクⅡ
-[スキル情報]
+[Skill Information]
 Damage:[223%]
 SA破壊量：[466%]
 SG消費量：[45]
@@ -983,7 +982,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
 ブレードクエイクⅢ
-[スキル情報]
+[Skill Information]
 Damage:[249%]
 SA破壊量：[522%]
 SG消費量：[45]
@@ -997,6 +996,7 @@ Damage:[249%]+27%
 SA破壊量：[522%]+55%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
+
 
 ブレードクエイクⅣ
 [スキル情報]
@@ -2029,24 +2029,24 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ダッシュⅠ
-前方に素早くダッシュする。
+Fastly dash forward.
 
 [操作方法]
-マウス：(前方移動キー)二回入力
-ダッシュの速度が上昇する。
+マウス： Press (Forward Directional Key) twice.
+Dash speed increases.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ダッシュⅡ
-前方に素早くダッシュする。
+Fastly dash forward.
 
 [操作方法]
-マウス：(前方移動キー)二回入力
+マウス： Press (Forward Directional Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
-起床攻撃Ⅰ
+Rising UpⅠ
 [スキル情報]
 ダメージ量：[100%]
 スタミナ消費量：[30]
@@ -2061,7 +2061,7 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
-起床攻撃Ⅱ
+Rising UpⅡ
 [スキル情報]
 ダメージ量：[100%]
 スタミナ消費量：[20]
@@ -2076,7 +2076,7 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
-起床攻撃Ⅲ
+Rising UpⅢ
 [スキル情報]
 ダメージ量：[100%]
 スタミナ消費量：[20]
@@ -3712,24 +3712,24 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ダッシュⅠ
-前方に素早くダッシュする。
+Fastly dash forward.
 
 [操作方法]
-マウス：(前方移動キー)二回入力
-ダッシュの速度が上昇する。
+マウス： Press (Forward Directional Key) twice.
+Dash speed increases.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ダッシュⅡ
-前方に素早くダッシュする。
+Fastly dash forward.
 
 [操作方法]
-マウス：(前方移動キー)二回入力
+マウス： Press (Forward Directional Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
-起床攻撃Ⅰ
+Rising UpⅠ
 [スキル情報]
 ダメージ量：[100%]
 スタミナ消費量：[30]
@@ -3744,7 +3744,7 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
-起床攻撃Ⅱ
+Rising UpⅡ
 [スキル情報]
 ダメージ量：[100%]
 スタミナ消費量：[20]
@@ -3759,7 +3759,7 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
-起床攻撃Ⅲ
+Rising UpⅢ
 [スキル情報]
 ダメージ量：[100%]
 スタミナ消費量：[20]
@@ -4525,7 +4525,7 @@ SA破壊量：[526%]
 ダメージ量：[198%]
 SA破壊量：[279%]
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[40]
 クールタイム：[25秒]
 
@@ -4550,16 +4550,16 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
 デスサイスⅣ
-[スキル情報：基本]
+[Skill Information：基本]
 ダメージ量：[269%]
 SA破壊量：[582%]
 5.5m以内の敵を引き寄せる。
 
-[スキル情報：追加]
+[Skill Information：追加]
 ダメージ量：[219%]
 SA破壊量：[308%]
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[40]
 クールタイム：[25秒]
 
@@ -4584,16 +4584,16 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
 デスサイスⅤ
-[スキル情報：基本]
+[Skill Information：基本]
 ダメージ量：[311%]
 SA破壊量：[671%]
 6.5m以内の敵を引き寄せる。
 
-[スキル情報：追加]
+[Skill Information：追加]
 ダメージ量：[253%]
 SA破壊量：[356%]
 
-[スキル情報：共通]
+[Skill Information：共通]
 SG消費量：[40]
 クールタイム：[25秒]
 
@@ -4611,7 +4611,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
 クルエルスラッシュⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[39%]
 SA破壊量：攻撃1回あたり[23%]
 フィニッシュダメージ量：[202%]
@@ -4640,7 +4640,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 クルエルスラッシュⅡ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[41%]
 SA破壊量：攻撃1回あたり[24%]
 フィニッシュダメージ量：[212%]
@@ -4669,7 +4669,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 クルエルスラッシュⅢ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[46%]
 SA破壊量：攻撃1回あたり[27%]
 フィニッシュダメージ量：[238%]
@@ -4698,7 +4698,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 クルエルスラッシュⅣ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[51%]
 SA破壊量：攻撃1回あたり[29%]
 フィニッシュダメージ量：[263%]
@@ -4727,7 +4727,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 クルエルスラッシュⅤ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[58%]
 SA破壊量：攻撃1回あたり[34%]
 フィニッシュダメージ量：[303%]
@@ -4750,7 +4750,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 グリムリーパーⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：[365%]
 SA破壊量：[602%]
 SG消費量：[30]
@@ -4767,7 +4767,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 グリムリーパーⅡ
-[スキル情報]
+[Skill Information]
 ダメージ量：[384%]
 SA破壊量：[632%]
 SG消費量：[30]
@@ -4784,7 +4784,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 グリムリーパーⅢ
-[スキル情報]
+[Skill Information]
 ダメージ量：[429%]
 SA破壊量：[708%]
 SG消費量：[30]
@@ -4801,7 +4801,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 グリムリーパーⅣ
-[スキル情報]
+[Skill Information]
 ダメージ量：[475%]
 SA破壊量：[783%]
 SG消費量：[30]
@@ -4818,7 +4818,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 グリムリーパーⅤ
-[スキル情報]
+[Skill Information]
 ダメージ量：[548%]
 SA破壊量：[903%]
 SG消費量：[30]
@@ -4834,7 +4834,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 フォースリージョンⅠ
-[スキル情報]
+[Skill Information]
 バフ効果：クリティカル率[7%]増加
 バフ持続時間：[20秒]
 SG消費量：[85]
@@ -4849,7 +4849,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 フォースリージョンⅡ
-[スキル情報]
+[Skill Information]
 バフ効果：クリティカル率[9%]増加
 バフ持続時間：[20秒]
 SG消費量：[85]
@@ -4864,7 +4864,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 フォースリージョンⅢ
-[スキル情報]
+[Skill Information]
 バフ効果：クリティカル率[12%]増加
 バフ持続時間：[20秒]
 SG消費量：[85]
@@ -4879,7 +4879,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 フォースリージョンⅣ
-[スキル情報]
+[Skill Information]
 バフ効果：クリティカル率[15%]増加
 バフ持続時間：[20秒]
 SG消費量：[85]
@@ -4894,7 +4894,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 フォースリージョンⅤ
-[スキル情報]
+[Skill Information]
 バフ効果：クリティカル率[20%]増加
 バフ持続時間：[20秒]
 SG消費量：[85]
@@ -4909,7 +4909,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 デストルネードⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[39%]
 SA破壊量：攻撃1回あたり[62%]
 SG消費量：[50]
@@ -4925,7 +4925,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 デストルネードⅡ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[40%]
 SA破壊量：攻撃1回あたり[65%]
 SG消費量：[50]
@@ -4941,7 +4941,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 デストルネードⅢ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[45%]
 SA破壊量：攻撃1回あたり[72%]
 SG消費量：[50]
@@ -4957,7 +4957,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 デストルネードⅣ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[50%]
 SA破壊量：攻撃1回あたり[80%]
 SG消費量：[50]
@@ -4973,7 +4973,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 デストルネードⅤ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[58%]
 SA破壊量：攻撃1回あたり[92%]
 SG消費量：[50]
@@ -4988,7 +4988,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 イビルトリニティⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：[911%]
 SA破壊量：[1263%]
 SG消費量：[60]
@@ -5004,7 +5004,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 イビルトリニティⅡ
-[スキル情報]
+[Skill Information]
 ダメージ量：[956%]
 SA破壊量：[1327%]
 SG消費量：[60]
@@ -5020,7 +5020,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 イビルトリニティⅢ
-[スキル情報]
+[Skill Information]
 ダメージ量：[1070%]
 SA破壊量：[1485%]
 SG消費量：[60]
@@ -5036,7 +5036,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 イビルトリニティⅣ
-[スキル情報]
+[Skill Information]
 ダメージ量：[1184%]
 SA破壊量：[1643%]
 SG消費量：[60]
@@ -5052,7 +5052,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 イビルトリニティⅤ
-[スキル情報]
+[Skill Information]
 ダメージ量：[1366%]
 SA破壊量：[1895%]
 SG消費量：[60]
@@ -5067,7 +5067,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 デスギロチンⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：[1516%]
 SA破壊量：[1524%]
 SG消費量：[75]
@@ -5083,7 +5083,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
 デスギロチンⅡ
-[スキル情報]
+[Skill Information]
 ダメージ量：[1591%]
 SA破壊量：[1600%]
 SG消費量：[75]
@@ -5099,7 +5099,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
 デスギロチンⅢ
-[スキル情報]
+[Skill Information]
 ダメージ量：[1781%]
 SA破壊量：[1791%]
 SG消費量：[75]
@@ -5115,7 +5115,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
 デスギロチンⅣ
-[スキル情報]
+[Skill Information]
 ダメージ量：[1970%]
 SA破壊量：[1981%]
 SG消費量：[75]
@@ -5131,7 +5131,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
 デスギロチンⅤ
-[スキル情報]
+[Skill Information]
 ダメージ量：[2273%]
 SA破壊量：[2286%]
 SG消費量：[75]
@@ -5164,7 +5164,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakZenith
 0
 
 イロージョンⅠ
-[スキル情報]
+[Skill Information]
 60秒間、覚醒状態になる。
 -クリティカル率が50%増加する。
 -移動速度が20%増加する。
@@ -5180,7 +5180,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakErode
 Description_Image/Skill/Mistscythe/Image_Mcythe_Break_Erode
 
 基本攻撃マスタリーⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 
 拳で敵を攻撃する。
@@ -5199,7 +5199,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 基本攻撃マスタリーⅡ
-[スキル情報]
+[Skill Information]
 敵に102%のダメージを与える。
 
 拳で敵を攻撃する。
@@ -5219,7 +5219,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 基本攻撃マスタリーⅢ
-[スキル情報]
+[Skill Information]
 敵に104%のダメージを与える。
 
 拳で敵を攻撃する。
@@ -5241,7 +5241,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 基本攻撃マスタリーⅣ
-[スキル情報]
+[Skill Information]
 敵に106%のダメージを与える。
 
 拳で敵を攻撃する。
@@ -5264,7 +5264,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 基本攻撃マスタリーⅤ
-[スキル情報]
+[Skill Information]
 敵に110%のダメージを与える。
 
 拳で敵を攻撃する。
@@ -5288,7 +5288,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 特殊能力マスタリーⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 近くの敵を2秒間、気絶状態にする。
 空中で使用時、100%のダメージを与える。
@@ -5316,7 +5316,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 0
 
 特殊能力マスタリーⅡ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 近くの敵を2秒間、気絶状態にする。
 空中で使用時、100%のダメージを与える。
@@ -5344,7 +5344,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 0
 
 特殊能力マスタリーⅢ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 近くの敵を2秒間、気絶状態にする。
 空中で使用時、100%のダメージを与える。
@@ -5388,7 +5388,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 緊急回避Ⅰ
-[スキル情報]
+[Skill Information]
 スキル使用時、スタミナを25消費する。
 
 指定した方向に素早く回避する。
@@ -5403,7 +5403,7 @@ Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 回転起床Ⅰ
-[スキル情報]
+[Skill Information]
 スキル使用時、スタミナを25消費する。
 
 ダウン時、指定した方向に素早く回転しながら起き上がる。
@@ -5416,7 +5416,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 回転起床Ⅱ
-[スキル情報]
+[Skill Information]
 スキル使用時、スタミナを15消費する。
 
 ダウン時、指定した方向に素早く回転しながら起き上がる。
@@ -5429,7 +5429,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 回転起床Ⅲ
-[スキル情報]
+[Skill Information]
 スキル使用時、スタミナを15消費する。
 少し早く回転起床ができる。
 
@@ -5443,25 +5443,25 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ダッシュⅠ
-前方に素早くダッシュする。
+Fastly dash forward.
 
 [操作方法]
-マウス：(前方移動キー)二回入力
-ダッシュの速度が上昇する。
+マウス： Press (Forward Directional Key) twice.
+Dash speed increases.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ダッシュⅡ
-前方に素早くダッシュする。
+Fastly dash forward.
 
 [操作方法]
-マウス：(前方移動キー)二回入力
+マウス： Press (Forward Directional Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
-起床攻撃Ⅰ
-[スキル情報]
+Rising UpⅠ
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、スタミナを30消費する。
 スキル使用後1秒間、無敵状態になる。
@@ -5475,8 +5475,8 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
-起床攻撃Ⅱ
-[スキル情報]
+Rising UpⅡ
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、スタミナを20消費する。
 スキル使用後1秒間、無敵状態になる。
@@ -5490,8 +5490,8 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
-起床攻撃Ⅲ
-[スキル情報]
+Rising UpⅢ
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、スタミナを20消費する。
 スキル使用後3秒間、無敵状態になる。
@@ -5506,7 +5506,7 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ダッシュアタックⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 攻撃命中時、SGが一定量回復する。
 
@@ -5519,7 +5519,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 
 特殊回避Ⅰ
-[スキル情報]
+[Skill Information]
 攻撃を受けている最中に回避使用時、スタミナを40消費する。
 クールタイム：60秒
 
@@ -5533,7 +5533,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 特殊回避Ⅱ
-[スキル情報]
+[Skill Information]
 攻撃を受けている最中に回避使用時、スタミナを40消費する。
 クールタイム：50秒
 
@@ -5547,7 +5547,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 特殊回避Ⅲ
-[スキル情報]
+[Skill Information]
 攻撃を受けている最中に回避使用時、スタミナを40消費する。
 クールタイム：40秒
 
@@ -5561,7 +5561,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 特殊ダッシュアタックⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 攻撃命中時、SGが一定量回復する。
 
@@ -5574,7 +5574,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
 ノックダウン脱出
-[スキル情報]
+[Skill Information]
 ノックダウン脱出使用時、スタミナを35消費する。
 クールタイム：5秒
 
@@ -5587,7 +5587,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ノックダウン脱出
-[スキル情報]
+[Skill Information]
 ノックダウン脱出使用時、スタミナを30消費する。
 クールタイム：5秒
 
@@ -5600,7 +5600,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ノックダウン脱出
-[スキル情報]
+[Skill Information]
 ノックダウン脱出使用時、スタミナを25消費する。
 クールタイム：5秒
 
@@ -5637,7 +5637,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 0
 
 カウンターアタックⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 近距離攻撃に対してのみ反撃可能。
 スキル使用時、SGを0消費する。
@@ -5653,7 +5653,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 カウンターアタックⅡ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 近距離攻撃に対してのみ反撃可能。
 スキル使用時、SGを0消費する。
@@ -5669,7 +5669,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 カウンターアタックⅢ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 近距離攻撃に対してのみ反撃可能。
 スキル使用時、SGを0消費する。
@@ -5685,7 +5685,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 カウンターアタックⅣ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 近距離攻撃に対してのみ反撃可能。
 スキル使用時、SGを0消費する。
@@ -5701,7 +5701,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 カウンターアタックⅤ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 近距離攻撃に対してのみ反撃可能。
 スキル使用時、SGを0消費する。
@@ -5716,7 +5716,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 グローリーアッパーⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5731,7 +5731,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 グローリーアッパーⅡ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5746,7 +5746,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 グローリーアッパーⅢ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5761,7 +5761,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 グローリーアッパーⅣ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5776,7 +5776,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 グローリーアッパーⅤ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5790,7 +5790,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ハンマーキックⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5805,7 +5805,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ハンマーキックⅡ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5820,7 +5820,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ハンマーキックⅢ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5835,7 +5835,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ハンマーキックⅣ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5850,7 +5850,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ハンマーキックⅤ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5864,7 +5864,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 パーフェクトコンビネーションⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5879,7 +5879,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 パーフェクトコンビネーションⅡ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5894,7 +5894,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 パーフェクトコンビネーションⅢ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5909,7 +5909,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 パーフェクトコンビネーションⅣ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5924,7 +5924,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 パーフェクトコンビネーションⅤ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -5938,7 +5938,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットサージⅠ
-[スキル情報]
+[Skill Information]
 0秒間、ダメージ減少量が0%増加する。
 攻撃を受けた敵を0秒間、挑発状態にする。
 スキル使用時、SGを0消費する。
@@ -5955,7 +5955,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットサージⅡ
-[スキル情報]
+[Skill Information]
 0秒間、ダメージ減少量が0%増加する。
 攻撃を受けた敵を0秒間、挑発状態にする。
 スキル使用時、SGを0消費する。
@@ -5972,7 +5972,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットサージⅢ
-[スキル情報]
+[Skill Information]
 0秒間、ダメージ減少量が0%増加する。
 攻撃を受けた敵を0秒間、挑発状態にする。
 スキル使用時、SGを0消費する。
@@ -5989,7 +5989,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットサージⅣ
-[スキル情報]
+[Skill Information]
 0秒間、ダメージ減少量が0%増加する。
 攻撃を受けた敵を0秒間、挑発状態にする。
 スキル使用時、SGを0消費する。
@@ -6006,7 +6006,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットサージⅤ
-[スキル情報]
+[Skill Information]
 0秒間、ダメージ減少量が0%増加する。
 攻撃を受けた敵を0秒間、挑発状態にする。
 スキル使用時、SGを0消費する。
@@ -6021,7 +6021,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 グラビティツイスターⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 攻撃を受けた敵を0秒間、麻痺状態にする。
 スキル使用時、SGを0消費する。
@@ -6039,7 +6039,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 グラビティツイスターⅡ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 攻撃を受けた敵を0秒間、麻痺状態にする。
 スキル使用時、SGを0消費する。
@@ -6057,7 +6057,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 グラビティツイスターⅢ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 攻撃を受けた敵を0秒間、麻痺状態にする。
 スキル使用時、SGを0消費する。
@@ -6075,7 +6075,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 グラビティツイスターⅣ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 攻撃を受けた敵を0秒間、麻痺状態にする。
 スキル使用時、SGを0消費する。
@@ -6093,7 +6093,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 グラビティツイスターⅤ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 攻撃を受けた敵を0秒間、麻痺状態にする。
 スキル使用時、SGを0消費する。
@@ -6109,7 +6109,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットエクスプロージョンⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6124,7 +6124,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットエクスプロージョンⅡ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6139,7 +6139,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットエクスプロージョンⅢ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6154,7 +6154,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットエクスプロージョンⅣ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6169,7 +6169,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットエクスプロージョンⅤ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6183,7 +6183,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットシューターⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 攻撃を受けた敵を0秒間、麻痺状態にする。
 スキル使用時、SGを0消費する。
@@ -6201,7 +6201,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットシューターⅡ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 攻撃を受けた敵を0秒間、麻痺状態にする。
 スキル使用時、SGを0消費する。
@@ -6219,7 +6219,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットシューターⅢ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 攻撃を受けた敵を0秒間、麻痺状態にする。
 スキル使用時、SGを0消費する。
@@ -6237,7 +6237,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットシューターⅣ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 攻撃を受けた敵を0秒間、麻痺状態にする。
 スキル使用時、SGを0消費する。
@@ -6255,7 +6255,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 スピリットシューターⅤ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 攻撃を受けた敵を0秒間、麻痺状態にする。
 スキル使用時、SGを0消費する。
@@ -6271,7 +6271,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 クアドラブローⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6287,7 +6287,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 クアドラブローⅡ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6303,7 +6303,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 クアドラブローⅢ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6319,7 +6319,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 クアドラブローⅣ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6335,7 +6335,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 クアドラブローⅤ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6350,7 +6350,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ヘビードロップⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6365,7 +6365,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ヘビードロップⅡ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6380,7 +6380,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ヘビードロップⅢ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6395,7 +6395,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ヘビードロップⅣ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6410,7 +6410,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ヘビードロップⅤ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6424,7 +6424,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 フュージョンアーマーⅠ
-[スキル情報]
+[Skill Information]
 0秒間、無敵状態になる。
 0秒間、防御度が0%増加する。
 スキル使用時、SGを0消費する。
@@ -6441,7 +6441,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 フュージョンアーマーⅡ
-[スキル情報]
+[Skill Information]
 0秒間、無敵状態になる。
 0秒間、防御度が0%増加する。
 スキル使用時、SGを0消費する。
@@ -6458,7 +6458,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 フュージョンアーマーⅢ
-[スキル情報]
+[Skill Information]
 0秒間、無敵状態になる。
 0秒間、防御度が0%増加する。
 スキル使用時、SGを0消費する。
@@ -6475,7 +6475,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 フュージョンアーマーⅣ
-[スキル情報]
+[Skill Information]
 0秒間、無敵状態になる。
 0秒間、防御度が0%増加する。
 スキル使用時、SGを0消費する。
@@ -6492,7 +6492,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 フュージョンアーマーⅤ
-[スキル情報]
+[Skill Information]
 0秒間、無敵状態になる。
 0秒間、防御度が0%増加する。
 スキル使用時、SGを0消費する。
@@ -6507,7 +6507,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ラピッドパンチャーⅠ
-[スキル情報]
+[Skill Information]
 敵に0%のダメージを与える。
 0秒間、攻撃が可能。
 スキル使用時、SGを0消費する。
@@ -6530,7 +6530,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ラピッドパンチャーⅡ
-[スキル情報]
+[Skill Information]
 敵に0%のダメージを与える。
 0秒間、攻撃が可能。
 スキル使用時、SGを0消費する。
@@ -6553,7 +6553,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ラピッドパンチャーⅢ
-[スキル情報]
+[Skill Information]
 敵に0%のダメージを与える。
 0秒間、攻撃が可能。
 スキル使用時、SGを0消費する。
@@ -6576,7 +6576,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ラピッドパンチャーⅣ
-[スキル情報]
+[Skill Information]
 敵に0%のダメージを与える。
 0秒間、攻撃が可能。
 スキル使用時、SGを0消費する。
@@ -6599,7 +6599,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ラピッドパンチャーⅤ
-[スキル情報]
+[Skill Information]
 敵に0%のダメージを与える。
 0秒間、攻撃が可能。
 スキル使用時、SGを0消費する。
@@ -6620,7 +6620,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ファイナルフィストⅠ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6635,7 +6635,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ファイナルフィストⅡ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6650,7 +6650,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ファイナルフィストⅢ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6665,7 +6665,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ファイナルフィストⅣ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6680,7 +6680,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ファイナルフィストⅤ
-[スキル情報]
+[Skill Information]
 敵に100%のダメージを与える。
 スキル使用時、SGを0消費する。
 クールタイム：0秒
@@ -6694,7 +6694,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 基本攻撃マスタリーⅠ
-[スキル情報]
+[Skill Information]
 ゴーストを召喚して敵を攻撃する。
 スキルレベルが上がるほど連係攻撃の種類が増加し、ダメージ量が増加する。
 
@@ -6709,7 +6709,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 基本攻撃マスタリーⅡ
-[スキル情報]
+[Skill Information]
 ゴーストを召喚して敵を攻撃する。
 スキルレベルが上がるほど連係攻撃の種類が増加し、ダメージ量が増加する。
 
@@ -6728,7 +6728,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 基本攻撃マスタリーⅢ
-[スキル情報]
+[Skill Information]
 ゴーストを召喚して敵を攻撃する。
 スキルレベルが上がるほど連係攻撃の種類が増加し、ダメージ量が増加する。
 
@@ -6749,7 +6749,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 基本攻撃マスタリーⅣ
-[スキル情報]
+[Skill Information]
 ゴーストを召喚して敵を攻撃する。
 スキルレベルが上がるほど連係攻撃の種類が増加し、ダメージ量が増加する。
 
@@ -6770,7 +6770,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 基本攻撃マスタリーⅤ
-[スキル情報]
+[Skill Information]
 ゴーストを召喚して敵を攻撃する。
 スキルレベルが上がるほど連係攻撃の種類が増加し、ダメージ量が増加する。
 
@@ -6790,12 +6790,12 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 特殊能力マスタリーⅠ
-[スキル情報：地上]
+[Skill Information：地上]
 モードを切り替え、スキル効果を変化させる。
 悲しみの楽想効果を受ける。
 クールタイム：[3秒]
 
-[スキル情報：空中]
+[Skill Information：空中]
 ダメージ量：[204%]
 SA破壊量：[124%]
 クールタイム：[3秒]
@@ -6824,12 +6824,12 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 0
 
 特殊能力マスタリーⅡ
-[スキル情報：地上]
+[Skill Information：地上]
 モードを切り替え、スキル効果を変化させる。
 悲しみの楽想効果を受ける。
 クールタイム：[3秒]
 
-[スキル情報：空中]
+[Skill Information：空中]
 ダメージ量：[214%]
 SA破壊量：[131%]
 クールタイム：[3秒]
@@ -6858,12 +6858,12 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 0
 
 特殊能力マスタリーⅢ
-[スキル情報：地上]
+[Skill Information：地上]
 モードを切り替え、スキル効果を変化させる。
 悲しみの楽想効果を受ける。
 クールタイム：[3秒]
 
-[スキル情報：空中]
+[Skill Information：空中]
 ダメージ量：[239%]
 SA破壊量：[146%]
 クールタイム：[3秒]
@@ -6905,7 +6905,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 緊急回避Ⅰ
-[スキル情報]
+[Skill Information]
 スタミナ消費量：[20]
 
 指定した方向に素早く移動する。
@@ -6920,7 +6920,7 @@ Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 特殊回避Ⅰ
-[スキル情報]
+[Skill Information]
 スタミナ消費量：[40]
 クールタイム：[60秒]
 
@@ -6934,7 +6934,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 特殊回避Ⅱ
-[スキル情報]
+[Skill Information]
 スタミナ消費量：[40]
 クールタイム：[50秒]
 
@@ -6948,7 +6948,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 特殊回避Ⅲ
-[スキル情報]
+[Skill Information]
 スタミナ消費量：[40]
 クールタイム：[40秒]
 
@@ -6962,7 +6962,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ノックダウン脱出Ⅰ
-[スキル情報]
+[Skill Information]
 ノックダウン脱出使用時、スタミナを35消費する。
 クールタイム：5秒
 
@@ -6975,7 +6975,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ノックダウン脱出Ⅱ
-[スキル情報]
+[Skill Information]
 ノックダウン脱出使用時、スタミナを30消費する。
 クールタイム：5秒
 
@@ -6988,7 +6988,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ノックダウン脱出Ⅲ
-[スキル情報]
+[Skill Information]
 ノックダウン脱出使用時、スタミナを25消費する。
 クールタイム：5秒
 
@@ -7000,8 +7000,8 @@ LvMax
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
-起床攻撃Ⅰ
-[スキル情報]
+Rising UpⅠ
+[Skill Information]
 ダメージ量：[100%]
 スタミナ消費量：[30]
 クールタイム：[15秒]
@@ -7015,8 +7015,8 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
-起床攻撃Ⅱ
-[スキル情報]
+Rising UpⅡ
+[Skill Information]
 ダメージ量：[100%]
 スタミナ消費量：[20]
 クールタイム：[15秒]
@@ -7030,8 +7030,8 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
-起床攻撃Ⅲ
-[スキル情報]
+Rising UpⅢ
+[Skill Information]
 ダメージ量：[100%]
 スタミナ消費量：[20]
 クールタイム：[15秒]
@@ -7046,7 +7046,7 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 回転起床Ⅰ
-[スキル情報]
+[Skill Information]
 スタミナ消費量：[25]
 
 ダウン時、指定した方向に素早く回転しながら起き上がる。
@@ -7059,7 +7059,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 回転起床Ⅱ
-[スキル情報]
+[Skill Information]
 スタミナ消費量：[15]
 
 ダウン時、指定した方向に素早く回転しながら起き上がる。
@@ -7072,7 +7072,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 回転起床Ⅲ
-[スキル情報]
+[Skill Information]
 スタミナ消費量：[15]
 少し早く回転起床ができる。
 
@@ -7086,25 +7086,25 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ダッシュⅠ
-前方に素早くダッシュする。
+Fastly dash forward.
 
 [操作方法]
-マウス：(前方移動キー)二回入力
-ダッシュの速度が上昇する。
+マウス： Press (Forward Directional Key) twice.
+Dash speed increases.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ダッシュⅡ
-前方に素早くダッシュする。
+Fastly dash forward.
 
 [操作方法]
-マウス：(前方移動キー)二回入力
+マウス： Press (Forward Directional Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ダッシュアタックⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：[127%]
 SA破壊量：[42%]
 
@@ -7117,7 +7117,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 
 特殊ダッシュアタックⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：[277%]
 SA破壊量：[171%]
 
@@ -7130,7 +7130,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
 悲しみの楽想Ⅰ
-[スキル情報]
+[Skill Information]
 一定時間ごとに自動でSGを回復する。
 モード転換時、特殊能力マスタリーのレベルによって追加効果を得る。
 
@@ -7143,7 +7143,7 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
 サウンドウェーブⅠ
-[スキル情報]
+[Skill Information]
 パッシブ効果：SG最大値[10%]増加
 
 SG最大値が増加する。
@@ -7152,7 +7152,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_SGPassive
 0
 
 サウンドウェーブⅡ
-[スキル情報]
+[Skill Information]
 パッシブ効果：SG最大値[15%]増加
 
 SG最大値が増加する。
@@ -7161,7 +7161,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_SGPassive
 0
 
 サウンドウェーブⅢ
-[スキル情報]
+[Skill Information]
 パッシブ効果：SG最大値[20%]増加
 
 SG最大値が増加する。
@@ -7170,7 +7170,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_SGPassive
 0
 
 スタミナマスタリーⅠ
-[スキル情報]
+[Skill Information]
 パッシブ効果：スタミナ回復量[10%]増加
 
 スタミナ回復量が増加する。
@@ -7179,7 +7179,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 スタミナマスタリーⅡ
-[スキル情報]
+[Skill Information]
 パッシブ効果：スタミナ回復量[20%]増加
 
 スタミナ回復量が増加する。
@@ -7188,7 +7188,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 スタミナマスタリーⅢ
-[スキル情報]
+[Skill Information]
 パッシブ効果：スタミナ回復量[30%]増加
 
 スタミナ回復量が増加する。
@@ -7197,7 +7197,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 スタミナマスタリーⅣ
-[スキル情報]
+[Skill Information]
 パッシブ効果：スタミナ回復量[40%]増加
 
 スタミナ回復量が増加する。
@@ -7206,7 +7206,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 スタミナマスタリーⅤ
-[スキル情報]
+[Skill Information]
 パッシブ効果：スタミナ回復量[50%]増加
 
 スタミナ回復量が増加する。
@@ -7215,7 +7215,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ワールダンスⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：[164%]
 SA破壊量：[231%]
 SG消費量：[15]
@@ -7231,7 +7231,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance
 0
 
 ワールダンスⅡ
-[スキル情報]
+[Skill Information]
 ダメージ量：[172%]
 SA破壊量：[242%]
 SG消費量：[15]
@@ -7247,7 +7247,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance
 0
 
 ワールダンスⅢ
-[スキル情報]
+[Skill Information]
 ダメージ量：[192%]
 SA破壊量：[271%]
 SG消費量：[15]
@@ -7263,7 +7263,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance
 0
 
 ワールダンスⅣ
-[スキル情報]
+[Skill Information]
 ダメージ量：[213%]
 SA破壊量：[300%]
 SG消費量：[15]
@@ -7279,7 +7279,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance
 0
 
 ワールダンスⅤ
-[スキル情報]
+[Skill Information]
 ダメージ量：[245%]
 SA破壊量：[346%]
 SG消費量：[15]
@@ -7294,7 +7294,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance
 0
 
 ファントムリリースⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：[265%]
 SA破壊量：[143%]
 SG消費量：[20]
@@ -7310,7 +7310,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease
 0
 
 ファントムリリースⅡ
-[スキル情報]
+[Skill Information]
 ダメージ量：[279%]
 SA破壊量：[150%]
 SG消費量：[20]
@@ -7326,7 +7326,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease
 0
 
 ファントムリリースⅢ
-[スキル情報]
+[Skill Information]
 ダメージ量：[312%]
 SA破壊量：[168%]
 SG消費量：[20]
@@ -7342,7 +7342,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease
 0
 
 ファントムリリースⅣ
-[スキル情報]
+[Skill Information]
 ダメージ量：[345%]
 SA破壊量：[186%]
 SG消費量：[20]
@@ -7358,7 +7358,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease
 0
 
 ファントムリリースⅤ
-[スキル情報]
+[Skill Information]
 ダメージ量：[398%]
 SA破壊量：[214%]
 SG消費量：[20]
@@ -7373,15 +7373,15 @@ Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease
 0
 
 トラブルパスⅠ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：攻撃1回あたり[62%]
 SA破壊量：攻撃1回あたり[40%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：ゴースト1体あたりHP[5%]回復
 使用者は効果を受けない。
 
-[スキル情報：一般]
+[Skill Information：一般]
 6体のゴーストを放つ。
 SG消費量：[25]
 クールタイム：[12秒]
@@ -7397,15 +7397,15 @@ Icon/Skill/Howling/Icon_Howling_Skill_TroublePass
 0
 
 トラブルパスⅡ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：攻撃1回あたり[65%]
 SA破壊量：攻撃1回あたり[42%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：ゴースト1体あたりHP[5%]回復
 使用者は効果を受けない。
 
-[スキル情報：一般]
+[Skill Information：一般]
 6体のゴーストを放つ。
 SG消費量：[25]
 クールタイム：[12秒]
@@ -7421,15 +7421,15 @@ Icon/Skill/Howling/Icon_Howling_Skill_TroublePass
 0
 
 トラブルパスⅢ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：攻撃1回あたり[72%]
 SA破壊量：攻撃1回あたり[47%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：ゴースト1体あたりHP[5%]回復
 使用者は効果を受けない。
 
-[スキル情報：一般]
+[Skill Information：一般]
 6体のゴーストを放つ。
 SG消費量：[25]
 クールタイム：[12秒]
@@ -7445,15 +7445,15 @@ Icon/Skill/Howling/Icon_Howling_Skill_TroublePass
 0
 
 トラブルパスⅣ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：攻撃1回あたり[80%]
 SA破壊量：攻撃1回あたり[52%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：ゴースト1体あたりHP[5%]回復
 使用者は効果を受けない。
 
-[スキル情報：一般]
+[Skill Information：一般]
 6体のゴーストを放つ。
 SG消費量：[25]
 クールタイム：[12秒]
@@ -7469,15 +7469,15 @@ Icon/Skill/Howling/Icon_Howling_Skill_TroublePass
 0
 
 トラブルパスⅤ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：攻撃1回あたり[92%]
 SA破壊量：攻撃1回あたり[60%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：ゴースト1体あたりHP[5%]回復
 使用者は効果を受けない。
 
-[スキル情報：一般]
+[Skill Information：一般]
 6体のゴーストを放つ。
 SG消費量：[25]
 クールタイム：[12秒]
@@ -7491,7 +7491,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_TroublePass
 0
 
 ヒステリックショックⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：[263%]
 SA破壊量：[406%]
 SG消費量：[30]
@@ -7507,7 +7507,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_HystericShock-
 0
 
 ヒステリックショックⅡ
-[スキル情報]
+[Skill Information]
 ダメージ量：[276%]
 SA破壊量：[426%]
 SG消費量：[30]
@@ -7523,7 +7523,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_HystericShock-
 0
 
 ヒステリックショックⅢ
-[スキル情報]
+[Skill Information]
 ダメージ量：[309%]
 SA破壊量：[447%]
 SG消費量：[30]
@@ -7539,7 +7539,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_HystericShock-
 0
 
 ヒステリックショックⅣ
-[スキル情報]
+[Skill Information]
 ダメージ量：[342%]
 SA破壊量：[528%]
 SG消費量：[30]
@@ -7555,7 +7555,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_HystericShock-
 0
 
 ヒステリックショックⅤ
-[スキル情報]
+[Skill Information]
 ダメージ量：[394%]
 SA破壊量：[609%]
 SG消費量：[30]
@@ -7570,7 +7570,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_HystericShock-
 0
 
 ビーストパレードⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：[395%]
 SA破壊量：[813%]
 SG消費量：[30]
@@ -7586,7 +7586,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParade
 0
 
 ビーストパレードⅡ
-[スキル情報]
+[Skill Information]
 ダメージ量：[414%]
 SA破壊量：[853%]
 SG消費量：[30]
@@ -7602,7 +7602,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParade
 0
 
 ビーストパレードⅢ
-[スキル情報]
+[Skill Information]
 ダメージ量：[464%]
 SA破壊量：[955%]
 SG消費量：[30]
@@ -7618,7 +7618,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParade
 0
 
 ビーストパレードⅣ
-[スキル情報]
+[Skill Information]
 ダメージ量：[513%]
 SA破壊量：[1056%]
 SG消費量：[30]
@@ -7634,7 +7634,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParade
 0
 
 ビーストパレードⅤ
-[スキル情報]
+[Skill Information]
 ダメージ量：[592%]
 SA破壊量：[1219%]
 SG消費量：[30]
@@ -7649,14 +7649,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParade
 0
 
 ビーズプレイⅠ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：球1個あたり[124%]
 SA破壊量：球1個あたり[25%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：球1個あたりHP[25%]回復
 
-[スキル情報：一般]
+[Skill Information：一般]
 チャージ段階に応じて球の数が増加する。
 チャージ完了時、敵を押し出す。
 最大チャージ段階：[3]
@@ -7675,14 +7675,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ビーズプレイⅡ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：球1個あたり[130%]
 SA破壊量：球1個あたり[27%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：球1個あたりHP[25%]回復
 
-[スキル情報：一般]
+[Skill Information：一般]
 チャージ段階に応じて球の数が増加する。
 チャージ完了時、敵を押し出す。
 最大チャージ段階：[3]
@@ -7701,14 +7701,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ビーズプレイⅢ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：球1個あたり[145%]
 SA破壊量：球1個あたり[30%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：球1個あたりHP[25%]回復
 
-[スキル情報：一般]
+[Skill Information：一般]
 チャージ段階に応じて球の数が増加する。
 チャージ完了時、敵を押し出す。
 最大チャージ段階：[3]
@@ -7727,14 +7727,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ビーズプレイⅣ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：球1個あたり[160%]
 SA破壊量：球1個あたり[33%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：球1個あたりHP[25%]回復
 
-[スキル情報：一般]
+[Skill Information：一般]
 チャージ段階に応じて球の数が増加する。
 チャージ完了時、敵を押し出す。
 最大チャージ段階：[3]
@@ -7753,14 +7753,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ビーズプレイⅤ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：球1個あたり[185%]
 SA破壊量：球1個あたり[38%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：球1個あたりHP[25%]回復
 
-[スキル情報：一般]
+[Skill Information：一般]
 チャージ段階に応じて球の数が増加する。
 チャージ完了時、敵を押し出す。
 最大チャージ段階：[3]
@@ -7777,18 +7777,18 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ディケードパルスⅠ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：攻撃1回あたり[52%]
 デバフ効果：移動速度[10%]減少
 SA破壊量：攻撃1回あたり[30%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 ダメージ量：[17%](HP吸収100%)
 デバフ効果：麻痺
 デバフ持続時間：[1秒]
 SA破壊量：[10%]
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[35]
 クールタイム：[15秒]
 
@@ -7810,18 +7810,18 @@ Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 0
 
 ディケードパルスⅡ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：攻撃1回あたり[55%]
 デバフ効果：移動速度[10%]減少
 SA破壊量：攻撃1回あたり[31%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 ダメージ量：[18%](HP吸収100%)
 デバフ効果：麻痺
 デバフ持続時間：[1秒]
 SA破壊量：[10%]
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[35]
 クールタイム：[15秒]
 
@@ -7844,18 +7844,18 @@ Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 0
 
 ディケードパルスⅢ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：攻撃1回あたり[61%]
 デバフ効果：移動速度[10%]減少
 SA破壊量：攻撃1回あたり[35%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 ダメージ量：[20%](HP吸収100%)
 デバフ効果：麻痺
 デバフ持続時間：[1秒]
 SA破壊量：[12%]
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[35]
 クールタイム：[15秒]
 
@@ -7877,18 +7877,18 @@ Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 0
 
 ディケードパルスⅣ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：攻撃1回あたり[68%]
 デバフ効果：移動速度[10%]減少
 SA破壊量：攻撃1回あたり[39%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 ダメージ量：[23%](HP吸収100%)
 デバフ効果：麻痺
 デバフ持続時間：[1秒]
 SA破壊量：[13%]
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[35]
 クールタイム：[15秒]
 
@@ -7911,18 +7911,18 @@ Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 0
 
 ディケードパルスⅤ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 ダメージ量：攻撃1回あたり[78%]
 デバフ効果：移動速度[10%]減少
 SA破壊量：攻撃1回あたり[45%]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 ダメージ量：[26%](HP吸収100%)
 デバフ効果：麻痺
 デバフ持続時間：[1秒]
 SA破壊量：[15%]
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[35]
 クールタイム：[15秒]
 
@@ -7939,7 +7939,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 0
 
 ソウルスクリームⅠ
-[スキル情報：一般]
+[Skill Information：一般]
 ダメージ量：[100%]
 バフ効果：無敵
 バフ持続時間：[1秒]
@@ -7947,7 +7947,7 @@ SA破壊量：[250%]
 SG消費量：[40]
 クールタイム：[60秒]
 
-[スキル情報：バリア]
+[Skill Information：バリア]
 ダメージ量：1秒あたり[10%]
 SA破壊量：1秒あたり[25%]
 デバフ効果：麻痺
@@ -7963,7 +7963,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
 ソウルスクリームⅡ
-[スキル情報：一般]
+[Skill Information：一般]
 ダメージ量：[100%]
 バフ効果：無敵
 バフ持続時間：[1秒]
@@ -7971,7 +7971,7 @@ SA破壊量：[250%]
 SG消費量：[35]
 クールタイム：[60秒]
 
-[スキル情報：バリア]
+[Skill Information：バリア]
 ダメージ量：1秒あたり[10%]
 SA破壊量：1秒あたり[25%]
 デバフ効果：麻痺
@@ -7988,7 +7988,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
 ソウルスクリームⅢ
-[スキル情報：一般]
+[Skill Information：一般]
 ダメージ量：[100%]
 バフ効果：無敵
 バフ持続時間：[1秒]
@@ -7996,7 +7996,7 @@ SA破壊量：[250%]
 SG消費量：[30]
 クールタイム：[55秒]
 
-[スキル情報：バリア]
+[Skill Information：バリア]
 ダメージ量：1秒あたり[10%]
 SA破壊量：1秒あたり[25%]
 デバフ効果：麻痺
@@ -8013,7 +8013,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
 ソウルスクリームⅣ
-[スキル情報：一般]
+[Skill Information：一般]
 ダメージ量：[100%]
 バフ効果：無敵
 バフ持続時間：[1秒]
@@ -8021,7 +8021,7 @@ SA破壊量：[250%]
 SG消費量：[25]
 クールタイム：[50秒]
 
-[スキル情報：バリア]
+[Skill Information：バリア]
 ダメージ量：1秒あたり[10%]
 SA破壊量：1秒あたり[25%]
 デバフ効果：麻痺
@@ -8038,7 +8038,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
 ソウルスクリームⅤ
-[スキル情報：一般]
+[Skill Information：一般]
 ダメージ量：[100%]
 バフ効果：無敵
 バフ持続時間：[1秒]
@@ -8046,7 +8046,7 @@ SA破壊量：[250%]
 SG消費量：[20]
 クールタイム：[30秒]
 
-[スキル情報：バリア]
+[Skill Information：バリア]
 ダメージ量：1秒あたり[10%]
 SA破壊量：1秒あたり[25%]
 デバフ効果：麻痺
@@ -8062,7 +8062,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
 ツイストプルⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：[618%]
 SA破壊量：[694%]
 SG消費量：[40]
@@ -8078,7 +8078,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_TwistPull
 0
 
 ツイストプルⅡ
-[スキル情報]
+[Skill Information]
 ダメージ量：[649%]
 SA破壊量：[729%]
 SG消費量：[40]
@@ -8094,7 +8094,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_TwistPull
 0
 
 ツイストプルⅢ
-[スキル情報]
+[Skill Information]
 ダメージ量：[726%]
 SA破壊量：[816%]
 SG消費量：[40]
@@ -8110,7 +8110,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_TwistPull
 0
 
 ツイストプルⅣ
-[スキル情報]
+[Skill Information]
 ダメージ量：[803%]
 SA破壊量：[903%]
 SG消費量：[40]
@@ -8126,7 +8126,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_TwistPull
 0
 
 ツイストプルⅤ
-[スキル情報]
+[Skill Information]
 ダメージ量：[927%]
 SA破壊量：[1041%]
 SG消費量：[40]
@@ -8141,7 +8141,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_TwistPull
 0
 
 ビーストパーティーⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：[447%]
 SA破壊量：[1687%]
 SG消費量：[40]
@@ -8158,7 +8158,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParty
 0
 
 ビーストパーティーⅡ
-[スキル情報]
+[Skill Information]
 ダメージ量：[469%]
 SA破壊量：[1772%]
 SG消費量：[40]
@@ -8175,7 +8175,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParty
 0
 
 ビーストパーティーⅢ
-[スキル情報]
+[Skill Information]
 ダメージ量：[525%]
 SA破壊量：[1983%]
 SG消費量：[40]
@@ -8192,7 +8192,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParty
 0
 
 ビーストパーティーⅣ
-[スキル情報]
+[Skill Information]
 ダメージ量：[581%]
 SA破壊量：[2194%]
 SG消費量：[40]
@@ -8209,7 +8209,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParty
 0
 
 ビーストパーティーⅤ
-[スキル情報]
+[Skill Information]
 ダメージ量：[670%]
 SA破壊量：[2531%]
 SG消費量：[40]
@@ -8225,14 +8225,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParty
 0
 
 ベストテンポⅠ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 バフ効果：ダメージ量の[6%]HP回復
 バフ持続時間：[8秒]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：HP[40%]回復
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[45]
 クールタイム：[45秒]
 
@@ -8250,14 +8250,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 0
 
 ベストテンポⅡ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 バフ効果：HP吸収[8%]
 バフ持続時間：[8秒]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：HP[50%]回復
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[45]
 クールタイム：[45秒]
 
@@ -8276,14 +8276,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 0
 
 ベストテンポⅢ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 バフ効果：HP吸収[10%]
 バフ持続時間：[9秒]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：HP[60%]回復
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[45]
 クールタイム：[45秒]
 
@@ -8302,14 +8302,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 0
 
 ベストテンポⅣ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 バフ効果：HP吸収[12%]
 バフ持続時間：[10秒]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：HP[70%]回復
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[45]
 クールタイム：[45秒]
 
@@ -8328,14 +8328,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 0
 
 ベストテンポⅤ
-[スキル情報：攻撃モード]
+[Skill Information：攻撃モード]
 バフ効果：HP吸収[15%]
 バフ持続時間：[12秒]
 
-[スキル情報：支援モード]
+[Skill Information：支援モード]
 バフ効果：HP[80%]回復
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[45]
 クールタイム：[45秒]
 
@@ -8349,17 +8349,17 @@ Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 0
 
 ブラックモーラスⅠ
-[1][スキル情報：引き寄せ]
+[1][Skill Information：引き寄せ]
 ダメージ量：[134%]
 SA破壊量：[229%]
 
-[2][スキル情報：浮かし]
+[2][Skill Information：浮かし]
 ダメージ量：[109%]
 デバフ効果：麻痺
 デバフ持続時間：[3秒]
 SA破壊量：[518%]
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[40]
 クールタイム：[35秒]
 
@@ -8383,17 +8383,17 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 ブラックモーラスⅡ
-[1][スキル情報：引き寄せ]
+[1][Skill Information：引き寄せ]
 ダメージ量：[140%]
 SA破壊量：[241%]
 
-[2][スキル情報：浮かし]
+[2][Skill Information：浮かし]
 ダメージ量：[114%]
 デバフ効果：麻痺
 デバフ持続時間：[3秒]
 SA破壊量：[544%]
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[40]
 クールタイム：[35秒]
 
@@ -8417,17 +8417,17 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 ブラックモーラスⅢ
-[1][スキル情報：引き寄せ]
+[1][Skill Information：引き寄せ]
 ダメージ量：[157%]
 SA破壊量：[269%]
 
-[2][スキル情報：浮かし]
+[2][Skill Information：浮かし]
 ダメージ量：[128%]
 デバフ効果：麻痺
 デバフ持続時間：[3秒]
 SA破壊量：[608%]
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[40]
 クールタイム：[35秒]
 
@@ -8451,17 +8451,17 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 ブラックモーラスⅣ
-[1][スキル情報：引き寄せ]
+[1][Skill Information：引き寄せ]
 ダメージ量：[174%]
 SA破壊量：[298%]
 
-[2][スキル情報：浮かし]
+[2][Skill Information：浮かし]
 ダメージ量：[141%]
 デバフ効果：麻痺
 デバフ持続時間：[3秒]
 SA破壊量：[673%]
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[40]
 クールタイム：[35秒]
 
@@ -8485,17 +8485,17 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 ブラックモーラスⅤ
-[1][スキル情報：引き寄せ]
+[1][Skill Information：引き寄せ]
 ダメージ量：[200%]
 SA破壊量：[344%]
 
-[2][スキル情報：浮かし]
+[2][Skill Information：浮かし]
 ダメージ量：[163%]
 デバフ効果：麻痺
 デバフ持続時間：[3秒]
 SA破壊量：[777%]
 
-[スキル情報：一般]
+[Skill Information：一般]
 SG消費量：[40]
 クールタイム：[35秒]
 
@@ -8513,7 +8513,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 ベースアタックⅠ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[430%]
 SA破壊量：攻撃1回あたり[403%]
 SG消費量：[45]
@@ -8534,7 +8534,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BassAttack
 0
 
 ベースアタックⅡ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[452%]
 SA破壊量：攻撃1回あたり[423%]
 SG消費量：[45]
@@ -8555,7 +8555,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BassAttack
 0
 
 ベースアタックⅢ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[506%]
 SA破壊量：攻撃1回あたり[473%]
 SG消費量：[45]
@@ -8576,7 +8576,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BassAttack
 0
 
 ベースアタックⅣ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[559%]
 SA破壊量：攻撃1回あたり[524%]
 SG消費量：[45]
@@ -8597,7 +8597,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BassAttack
 0
 
 ベースアタックⅤ
-[スキル情報]
+[Skill Information]
 ダメージ量：攻撃1回あたり[646%]
 SA破壊量：攻撃1回あたり[604%]
 SG消費量：[45]
@@ -8623,7 +8623,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 イロージョンⅠ
-[スキル情報]
+[Skill Information]
 60秒間、覚醒状態になる。
 -SGを1秒あたり15%回復する。
 -移動速度が50%増加する。
