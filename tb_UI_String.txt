@@ -14,7 +14,7 @@ Maximum
 
 Agree
 
-Reject
+Decline
 
 Payment
 
@@ -134,7 +134,7 @@ Sub-Weapon
 
 Soul Pendant
 
-ソウルギア
+Soul Gear
 
 Soul Earrings
 
@@ -208,7 +208,7 @@ Soul Cartridge
 
 Soul Pendant
 
-ソウルギア
+Soul Gear
 
 Soul Earrings
 
@@ -244,7 +244,7 @@ General Items
 
 Consumables
 
-クエストアイテム
+Quest Item
 
 Quest Items
 
@@ -395,7 +395,7 @@ Friend Point：
 
 {0} S Coin
 
-{0} Hancoin
+{0} HanCoin
 
 Deposit
 
@@ -407,9 +407,9 @@ Use
 
 Split
 
-チャットリンク
+Chat Link
 
-Dispose
+Discard
 
 Sell 
 
@@ -469,7 +469,7 @@ Random Crafting
 
 BP Required
 
-Zenny Required
+Zenny Required 
 
 {0} was successfully made.
 
@@ -487,22 +487,22 @@ The equipment durability has been reduced.
 The durability has declined by {0}%.
 
 Are you sure you want to repair all equipment in possession?
-(Costs：{0} Zenny)
+(Cost：{0} Zenny)
 
 Are you sure you want to repair all worn equipment?
-(Costs：{0} Zenny)
+(Cost：{0} Zenny)
 
 Are you sure you want to repair {0}?
-(Costs：{1} Zenny)
+(Cost：{1} Zenny)
 
 {0} has been repaired.
-(Costs：{1} Zenny)
+(Cost：{1} Zenny)
 
 Equiped items have been repaired.
-(Costs：{0} Zenny)
+(Cost：{0} Zenny)
 
 All equipment has been repaired.
-(Costs：{0} Zenny)
+(Cost：{0} Zenny)
 
 Insufficient funds for repairing.
 
@@ -513,20 +513,20 @@ The item cannot be equipped because it has zero durability.
 
 Please repair the item.
 
-Durability : {0}
+Durability: {0}
 
 Instance
 Earn
 
 Progress
 
-{0} time {1} minutes {2} seconds
+{0}h {1}m {2}s
 
-{0} minutes {1} seconds
+{0}m {1}s
 
 Additional Rewards Gained：{0} X {1}
 
-Since there is no remaining inventory space, it has been shiped by、[{0} X {1}] mail.
+Since there is no remaining inventory space, it has been shiped by [{0} X {1}] mail.
 
 Result
 
@@ -586,21 +586,21 @@ Add Friend
 
 Revive
 
-※You will be <font size='15' color='#F15F5F'>moved to town</font> after abandoning the party in <font color='#F7AE54'>{0} seconds</font>.
+※You will be <font color='#F15F5F'>moved to town</font> after abandoning the party in <font size='15' color='#F7AE54'>{0}</font> seconds.
 
 Abandonment
 
 You have been ressurected by the blessing buff effect.
 
-※<font color='#F2CB61'>[アクシジェントコール]1個</font>を使用して復活します。
+※<font color='#F2CB61'>1 [Accident Call]</font> will be used for resurrection.
 
-※<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>最後の町に移動</font>します。
+※<font color='#F15F5F'>You will be moved to the last town you visited</font> after <font size='15' color='#F7AE54'>{0}</font> seconds.
 
-※<font color='#47C83E'>[{0}] has revived you</font>
+※<font color='#47C83E'>[{0}] has revived you</font>.
 
-※<font color='#FFBB00'>[トップアクシジェントコール]1個</font>を使用して復活します。
+※Do you want to use <font color='#FFBB00'>1 [Top Accident Call]</font> to revive?
 
-※<font color='#FFBB00'>[トップアクシジェントコール]</font>がないため、復活できません。
+※You cannot revive because you don't have a <font color='#FFBB00'>[Top Accident Call]</font>.
 
 Withdraw
 
@@ -610,7 +610,7 @@ Expel
 
 Accept
 
-Reject
+Decline
 
 OFFLINE
 
@@ -638,15 +638,15 @@ says
 
 You have received a party invitation from {0}.
 Do you accept this party invitation?
-(Response time remaining: {1} seconds)
+({1} second(s) remaining)
 
 If you leave the party, you will be teleported to town.
 Are you sure you want to leave the party?
 
-Left the party. Teleporting to town.
-(In {0} seconds)
+You have left the party. Moving to town.
+({0} second(s) remaining)
 
-Are you sure you want to transfer party leadership to {0}?
+Are you sure you want to make {0} the party leader?
 
 Are you sure you want to expel {0} from the party?
 
@@ -655,12 +655,12 @@ Are you sure you want to leave the party?
 Do you want to raise {0}'s skill level?
 (Costs: {1} SP)
 
-SP in Possession
+Owned SP
 
 {0} Points
 
 Do you want to learn {0}?
-(Costs: {1} SP)
+(Cost: {1} SP)
 
 Are you sure you want to extend the skill deck?
 
@@ -793,7 +793,7 @@ The instance can be entered when everyone consents.
 (Members in a different town.
 Members that are logged out.)
 
-The party leader has initiated an instance. Do you wish to join?
+The party leader has requested to enter the dungeon. Do you wish to join?
 Location：[{0}]
 Episode：[{1}]
 Difficulty：[{2}]
@@ -860,35 +860,35 @@ Quest Dialogue
 
 Return
 
-Advance[Space]
+Continue [Space]
 
 Skip
 
-Close[ESC]
+Close [ESC]
 
-End Conversation[Space]
+End Conversation [Space]
 
-End[Space]
+End [Space]
 
 Manage Sockets
 
-Accept Order[Space]
+Accept Order [Space]
 
-Reject-[Back]
+Decline [Back]
 
 {0} Zenny
 
-{0}EXP
+{0} EXP
 
 Lv{0}
 
-{0}位
+Rank {0}
 
-The raid "Strange Space" is a difficult instance. Please proceed with caution.
+The raid "Strange Space" is a difficult dungeon. Please proceed with caution.
 
-The raid "Golden Citadel" is a four-person instance. Please remediate the calamity.
+The raid "Golden Citadel" is a four-person dungeon. Please remediate the calamity.
 
-The instance "Steel Grave" can only be challenged once a day.
+The dungeon "Steel Grave" can only be challenged once a day.
 
 Normal
 
@@ -900,11 +900,11 @@ Dedicated Party
 
 Party of 4
 
-FP consumption
+FP Cost
 
 An admission ticket is required.
 
-Recommended Level:{0}
+Recommended Level: {0}
 
 Recommended Number of Party Members：{0}
 
@@ -932,11 +932,11 @@ Equipment Requirement
 
 <font color='#0099FF'>Evolvable</font>
 
-<font color='#FF0000'>Bound on equip</font>
+<font color='#FF0000'>Bind on Equip</font>
 
-<font color='#FF0000'>Bound on acquisition</font>
+<font color='#FF0000'>Bind on Acquisition</font>
 
-<font color='#FF0000'>Bound</font>
+<font color='#FF0000'>Bind</font>
 
 <font color='#FF0000'>Untradable</font>
 
@@ -962,7 +962,7 @@ Time
 
 Day
 
-Level Required:
+Required Level:
 
 Durability
 
@@ -1000,7 +1000,7 @@ Target Enemy
 
 Left-Click Barrage
 
-Hold down left click
+Hold down left-click
 
 Left or right-click barrage
 
@@ -1024,7 +1024,7 @@ Set Effect Comparison
 
 Socket Effect Comparison
 
-{0}セット：
+{0} Set：
 
 Exp
 
@@ -1034,7 +1034,7 @@ Socket brooch
 
 Equip
 
-Socket item attached.
+Attached Socket Item 
 
 Attach Familia
 
@@ -1051,7 +1051,7 @@ You can attach the socket item after unattaching the applied socket item.
 
 Are you sure you want to attach the Familia to the target socket?
 
-Familia has been successfully installed.
+You have successfully attached the Familiar. 
 
 Socket Item Management
 
@@ -1072,10 +1072,10 @@ Are you sure you want to remove the socketed item?
 
 Do you want to add a new socket to the selected item?
 
-Familia can be attached to socket items.
-(To attach it, select the item first, then right-click)
+A Familia can be attached to socket items.
+(Right-click the item to attach it)
 
-Selected Familia has been released.
+The selected Familia has been released.
 
 A socket has been added to the selected item。
 
@@ -1105,7 +1105,7 @@ Guild
 
 Quest
 
-Instance
+Dungeon
 
 Portal
 
@@ -1150,16 +1150,16 @@ Do you want to dismantle {0}?
 Dismantle the selected item and press confirm.
 Are you sure you want to dismantle?
 
-The selected item is a<font color='#A566FF'>valuable item</font>.
+The selected item is a <font color='#A566FF'>valuable item</font>.
 Upon dismantling, the item cannot be restored. Do you want to proceed?
 
-There is not enough {0}, therefore it can't be dismantled.
+You do not have enough {0}, therefore it can't be dismantled.
 
 Insufficient inventory space for dismantling.
 
 MAX
 
-When equipped, the item will be bound.
+This item binds on equip.
 Do you want to equip the item?
 
 Status
@@ -1198,7 +1198,7 @@ Effect on Failed Attack Rate and Critical Rate
 
 Effect on HP and Physical Defense
 
-Effect on chance
+Effect on Chance
 
 Stamina recovered per second
 
@@ -1244,13 +1244,13 @@ Evolvable
 
 Dismantable
 
-Bound on equip
+Bind on Equip
 
-Bound on acquisition
+Bind on Acquisition
 
-Bound
+Bind
 
-<font color='#FF0000'>Not sellable</font>
+<font color='#FF0000'>Unsellable</font>
 
 <font color='#FF0000'>Indestructible</font>
 
@@ -1260,7 +1260,7 @@ Trade
 
 Please register an item.
 
-Maximum Enhancements possible：+{0}
+Maximum Enhancement Stage: +{0}
 
 Enhancements done
 
@@ -1268,7 +1268,7 @@ Reinforced materials.
 
 {1}/{2}
 
-Enhancement target
+Enhancement Target
 
 The item cannot be enhanced.
 
@@ -1343,7 +1343,7 @@ Evolution
 
 The equipment item cannot be enhanced.
 
-Enhancing not possible： 「{0}」 missing
+Evolution not possible: 「{0}」 missing  
 
 You can enhance the item.
 It may result in destroying the item.
@@ -1554,7 +1554,7 @@ Exit Survival Mode
 
 NED Company
 
-スタリーフォレスト連合
+Starry Forest League
 
 Nihilum Kingdom Gang
 
@@ -1690,7 +1690,7 @@ Time Sent
 
 Received time
 
-{0} time {1} minutes
+{0}h {1}m
 
 Claim Zenny
 
@@ -1840,43 +1840,43 @@ Confirm
 
 Correct
 
-Complete Transaction
+Complete Trade
 
-Abort Transaction
+Cancel Trade
 
-After registering the item and Jenny, please click on the "complete registration".
+After registering your items and Zenny, please click on the "Complete Registration".
 
-Check the contents, please click on the "completion transaction."
+Check the contents, please click on the "Complete Trade."
 
 Waiting for a response from the other trader.
-(If you do not want to trade, please click on the button "Abort Transaction"
+(If you do not want to trade, please click on the button "Cancel Trade"
 
 Trade request sent to {0}. Waiting the consent of the other party.
-[Remaining Response Time: {1} seconds]
+[{1}s remaining]
 
 Trade request received from {0}. Do you accept?
-[Remaining Response Time: {1} seconds]
+[{1}s remaining]
 
-The player is too far; the trade request has been canceled.
+The player is too far away; the trade request has been canceled.
 
-The player has logged out, the transaction request has been aborted.
+The player has logged out, the trade request has been aborted.
 
-Transaction has been aborted.
+The trade has been canceled.
 (You must be in the same town as the other party)
 
-Aborted the transaction request to {0}.
+The trade request with {0} was canceled.
 
-Refused the transaction request from {0}.
+The trade request from {0} was declined.
 
-{0} has aborted the transaction request.
+{0} has canceled the trade request.
 
-{0} has rejected the trade request.
+{0} has declined the trade request.
 
-The transaction request has expired because of no response.
+The trade request has expired because of no response.
 
-NPC Functions are unavailable while in a transaction.
+NPC Functions are unavailable while in a trade.
 
-Equipment changes are unavailable while in a transaction.
+Equipment changes are unavailable while in a trade.
 
 Target player already has a trade in progress.
 Please try again later.
@@ -1884,25 +1884,25 @@ Please try again later.
 Target player has already requested a trade.
 Please try again later.
 
-Transactions with {0} was successful.
+Trade with {0} was successful.
 
-Since there was no free inventory space, the transaction was canceled.
+Since there was no free inventory space, the trade was canceled.
 
 Do you want to stop the trade with {0}?
 
-Aborted the trade with {0}.
+Canceled the trade with {0}.
 
-{0} has aborted the transaction.
+{0} has canceled the trade.
 
-Since the target player is too far, the trade has been aborted.
+Since the target player is too far, the trade has been canceled.
 
-Since the target player has logged out, the trade has been aborted.
+Since the target player has logged out, the trade has been canceled.
 
-Since the target player has moved into other areas, the trade has been aborted.
+Since the target player has moved into other areas, the trade has been canceled.
 
 {0} can't be traded with because they are currently opening a private shop.
 
-Transactions with this player is impossible.
+You cannot trade with this player.
 
 Change
 
@@ -1956,7 +1956,7 @@ Sale
 
 Sale Preparations
 
-When trading or registering products, please verify the items and zenny.
+When trading or registering products, please verify the items and Zenny.
 
 Quest Completion Reward
 
@@ -1972,7 +1972,7 @@ Items acquired.
 
 When completing {0}, the following rewards are awarded.
 
-{0}を達成し、以下の報酬を獲得しました。
+You have achieved the {0}, the rewards below have been awarded.
 
 {0}占有率報酬により、以下を獲得しました。
 
@@ -1992,7 +1992,7 @@ Ether
 
 Title
 
-Supporters
+Supporter
 
 Open Package
 
@@ -2008,21 +2008,21 @@ You can not use the item as there is insufficient inventory space.
 
 Unread Mail
 
-{0} There are unread mails. Please check with HEMS.
+You have unread {0} mails. Please check with HEMS.
 
-Learning possible skills
+Available Skill
 
-{0}Lv{1} Skill Acquisition possible
+{0}Lv{1} Available
 
-Learnable attributes
+Available Attribute
 
-{0}Lv{1} Skill Acquisition possible
+{0}Lv{1} Available
 
-Awakening skills are available.
+Break Skill Available
 
 {0} is available.
 
-Instance Admission is possible.
+Dungeon Entry Possible
 
 {0}-{1}{2} can be entered.
 
@@ -2040,11 +2040,11 @@ Memorial completed.
 
 Incoming Friend Request
 
-Received friend request from {0}
+You received a friend request from {0}
 
-Not learned
+Completion Rate
 
-{0} Cooldown:{1}%
+{0} Completion Rate:{1}%
 
 Unlearned
 
@@ -2072,21 +2072,21 @@ Succeeding Skills：
 
 SV
 
-<Awakening Skills>
-Awakening available
+<Break Skill>
+Peak Available
 
-<ブレイクスキル>
-イロージョン使用可能
+<Break Skill>
+Erosion Available
 
 SV{0}% Consumption
 
 Intro Video
 
-Production staff
+Production Staff
 
-Close Game
+Quit Game
 
-Server Change
+Change Server
 
 System Settings
 
@@ -2094,11 +2094,11 @@ Login
 
 ID
 
-Please enter ab ID.
+Please enter your ID.
 
 Password
 
-Please enter a Password.
+Please enter your Password.
 
 Save Account Name
 
@@ -2106,59 +2106,59 @@ Login [ENTER]
 
 Server Selection
 
-Server name
+Server Name
 
-Server state
+Server Status
 
 Character Order
 
 Connect to Server [ENTER]
 
-Cannot enter the server.
+Failed to enter the server.
 
 Please select a server.
 
-Play character selection
+Play Character Selection
 
 Start Game [ENTER]
 
 Delete Character
 
-New  Character
+New Character
 
 Delete Character
 
 The character name may not be used for 7 days after deletion. Are you sure you want to delete the character?
 
-Deleted characters cannot be recovered.
+A deleted character cannot be recovered.
 As a guild master, the guild will be disbanded.
-Are you sure you want to delete the character?
+Are you sure you want to delete this character?
 
-Deleted characters cannot be recovered.
+A deleted character cannot be recovered.
 The guild leader's position will be revoked.
-Are you sure you want to delete the character?
+Are you sure you want to delete this character?
 
-点検中
+Maintenance
 
-Wait for connection...
+Waiting to connect.
 
-Populated
+Busy
 
-普通
+Normal
 
-円滑
+Low
 
-ロスカー
+Oscar
 
-カント
+Kant
 
-キャラクター選択
+Select Character
 
-進む
+Continue
 
-戻る
+Return
 
-作成中止
+Cancel Creation
 
 Class Data
 
@@ -2172,100 +2172,100 @@ Character Appearance
 
 Social	
 
-Battle
+Combat
 
 Skill
 
-Uses swords.
-A practical choice for combat.
+Uses a sword as a weapon.
+This weapon has a balanced style and its performance is exceptional.
 
-Uses handguns.
+Uses a pistol as a weapon.
 Perform nimble movements at the expense of the enemy.
 
-Uses scythes.
-Strike down your foes with long-reaching attacks.
+Uses a scythe as a weapon.
+Sweep away enemies with the power of long-reaching attacks.
 
-Uses fists.
-Quickly annhilate the enemy with impending speed.
+Uses a gauntlet as a weapon.
+Quickly annihilate enemies with impending speed.
 
-Uses guitars.
+Uses a guitar as a weapon.
 Harbor some deadly sound-wrenching melodies by summoning ghosts.
 
-使用武器はキャノン。
-圧倒的火力で敵を制圧。
+Uses a cannon as a weapon.
+Dominate enemies with overwhelming firepower.
 
-何もできずに全てを奪われた無力感を媒介として異能力を発揮する少女。優しい少女が振り回す巨大な刃は、贖罪と自責の念を抱えて彷徨う。
+A girl who wishes to demonstrate her various abilities due to feeling helplessness from not being able to do anything as a medium. A gentle, huge-sword wielding girl who suffers from a feeling of obligation and guilt.
 
-快楽を媒介に異能力を発揮する少年。興味本位で自ら空白の中へ入った命知らず。どんなに危険な状況でも余裕と笑いを失わない楽観主義者。
+A boy who takes pleasure in showing off his abilities has a medium. A reckless boy who lost himself with his own insatiable curosity into the 空白. He laughs even at the most despairful situation.
 
-自分の中の狂気を媒介に異能力を発揮する少女。空白から現れた怪物との戦いの中でもう一人の自分が目を覚ます！普段は上品な態度だが実は…。
+A girl with a propensity to control her madness. She was brought into a foreign world after waking up in a strange estranged place, while in the midst of battle with a monster. She usually has a condescending attitude.
 
-正義への情熱を媒介に異能力を発揮する少年。自分を犠牲にしてでも人を助け、悪を絶対に許さない真っ直ぐな正義漢！
+A boy who is determined to show off his abilities for righteous reasons. He helps people at his own expense and does not allow evil to prevail at all costs.
 
-悲しみを媒介に異能力を発揮する少女。天真爛漫で超マイペース。しかし彼女が奏でる旋律はなぜか哀愁に満ちている。
+A girl who exerts an ability to display sorrow as a medium. She is oblivious and naive at times; however, the melodies she plays are full of sorrow.
 
-憤怒を媒介に異能力を発揮する少女。この狂った世界に怒りを放つが、戻ってくるのは自分の声と虚無感だけ。
+A girl who exerts an ability to control rage as a medium. Although she tries to direct her anger in this insane world, what reverbates back to her is only her voice and sense of emptiness.
 
-プレビュー
+Preview
 
-アバタープレビュー
+Avatar preview
 
-武器プレビュー
+Weapon preview
 
-音声試聴
+Listen to Voice
 
-聞く
+Listen
 
-動作プレビュー
+Preview
 
-再生
+Playback
 
-外見選択
+Select Appearance
 
-ヘアスタイル・カラー
+Hairstyle Color
 
-アイカラー
+Eye Color
 
-スキン
+Skin
 
-基本衣装選択
+Costume Selection
 
-下着
+Underwear
 
-作成完了
+Finish Creation
 
-戻る
+Return
 
-キャラクター名
+Character Name
 
-2～12文字入力可能
+2 to 12 characters can be used.
 
-初期化
+Start
 
-ランダム
+Random
 
-キャラクタースタイル設定
+Character Style Settings
 
-<font color='#FFFFFF'><font size="30">TIP：</font>基本的な装備アイテムは、各町にいる<font color='#00ff9c'>ジャイト</font>の装備商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP:</font>Basic equipment items in each town's <font color='#00ff9c'>Equipment Shop</font>can be bought.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>ヨミ</font>の雑貨商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP:</font>Basic consumable items in each town's <font color='#00ff9c'>General Merchant Shop</font>can be bought.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>町の商店で、武器の耐久度を回復する<font color='#00D8FF'>[修理]</font>や、各種素材を入手できるアイテムの<font color='#00D8FF'>[分解]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP:</font>Various shops in towns can <font color='#00D8FF'>[repair]</font> your equipment or <font color='#00D8FF'>[dismantle]</font> them.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>商店などの機能性NPCを利用すると、<font color='#00D8FF'>[顧客等級]</font>が上昇します。
-顧客等級のレベルによって、様々な特典が付与されます。
+<font color='#FFFFFF'><font size="30">TIP:</font>If you purchase from an NPC Shop, your <font color='#00D8FF'>[Customer Grade]</font> will rise.
+Determining on the customer grade level obtained, various benefits and additional items can be offered.
 
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[トリシャ]</font>の所で、武器・ギアの<font color='#00D8FF'>[強化][交換]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP:</font><font color='#00ff9c'>Talking to [Trisha]</font>, you can <font color='#00D8FF'>[exchange] or [enhance]</font> materials/equipment.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して
+<font color='#FFFFFF'><font size="30">TIP:</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して
 別の装備品の強化・製作アイテムを入手することもできます。
 
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#B2EBF4'>[ゼニス]</font>の所で、武器・ギア・アバターを<font color='#00D8FF'>[製作]</font>できます。
+<font color='#FFFFFF'><font size="30">TIP:</font><font color='#B2EBF4'>[ゼニス]</font>の所で、武器・ギア・アバターを<font color='#00D8FF'>[製作]</font>できます。
 
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>HEMS</font>を利用してメールを送れます。メール送信には手数料がかかります。
+<font color='#FFFFFF'><font size="30">TIP:</font><font color='#00ff9c'>HEMS</font>を利用してメールを送れます。メール送信には手数料がかかります。
 必要に応じてアイテムやジェニーの添付も可能です。
 
-<font color='#FFFFFF'><font size="30">TIP：</font>町にいる<font color='#00ff9c'>オードン</font>の銀行に、持ちきれない<font color='#00D8FF'>アイテム</font>を預けることができます。
+<font color='#FFFFFF'><font size="30">TIP:</font>町にいる<font color='#00ff9c'>オードン</font>の銀行に、持ちきれない<font color='#00D8FF'>アイテム</font>を預けることができます。
 
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>ミニマップ</font>で自分の現在地や各<font color='#00D8FF'>NPC</font>の場所、<font color='#00D8FF'>メイズ</font>の入口を確認できます。
 
@@ -2381,13 +2381,13 @@ NPCの頭上やミニマップ上に表示されます。
 
 <font color='#FFFFFF'><font size="30">TIP：</font>カンダスシティから戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>に入場できます。
 
-<font color='#FFFFFF'><font size="30">TIP：</font>戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>へは、1日1回5ステージまで入場できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>へは、1日1回5Stage まで入場できます。
 
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ベリーハード</font>は敵が強い分、獲得できる報酬の質が上がります。
 
 <font color='#FFFFFF'><font size="30">TIP：</font>基本的な装備アイテムは、各町にいる<font color='#00ff9c'>ジャイト</font>の装備商店で購入できます。
 
-<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>ヨミ</font>の雑貨商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>general merchandise store</font>の雑貨商店で購入できます。
 
 <font color='#FFFFFF'><font size="30">TIP：</font>町の商店で、武器の耐久度を回復する<font color='#00D8FF'>[修理]</font>や、各種素材を入手できるアイテムの<font color='#00D8FF'>[分解]</font>ができます。
 
@@ -2486,27 +2486,27 @@ NPCの頭上やミニマップ上に表示されます。
 
 Ｌｖ
 
-等級
+Grade
 
-[フレンド]
+[Friend]
 
-[ギルド]
+[Guild]
 
-所持ジェニー
+Owned Zenny
 
-決定
+Confirm
 
 使用待機中
 
 A.Rカード「{0}」を
-削除しますか?
+Are you sure you want to discard this?
 
-{0}の{1}
-A.Rカードを持ってきますか?
-レンタル期間：{2}時間　必要ジェニー：{3}
-差引き後の所持ジェニー：{4}
+{0} of {1}
+Did you want to rent the A.R. Card?
+Rental Period：{2}; Zenny Fee：{3}
+Total Zenny after Rental：{4}
 
-フレンドのA.Rカードを選択しませんでした。
+You did not select a friend's A.R. Card.
 
 A.Rカードのレンタルにより、{0}ジェニーが追加されました。
 
@@ -2519,7 +2519,7 @@ A.Rカードボックスを使用します。
 A.Rカードを使用して固有能力を獲得します。
 使用したA.Rカードはインベントリから削除され、
 スキルウィンドウ[K]のA.Rカードタブに登録されます。
-本当に使用しますか?
+Are you sure you want to use this? 
 
 A.Rカードの空きがないためアイテムを使用できません。
 
@@ -2602,36 +2602,36 @@ A.Rカードを登録してください。
 
 解放不可
 
-プリセット
+Presets
 
-スキルデッキ
-初期化
+Skill Deck
+Start
 
-ボーナス
+Bonus
 
-段階
+Step 
 
-スキルデッキを選択してください。
+Please select a skill deck.
 
-ブレイクスキル表示
+Show Break Skills
 
-ピーク
+Peak
 
-イロージョン
+Erosion
 
 Lv{0}
 
-先行スキル
+Preceding Skills
 
-特性選択
+Select Character
 
-習得可能
+Learnable
 
-装着中
+On equip
 
-SP不足
+Insufficient SP
 
-累積使用SP不足
+Refund SP
 
 Master
 
@@ -2639,29 +2639,29 @@ Master
 
 枚
 
-ダメージ{0}%増加
+Damage Increase by {0}%
 
-クールタイム{0}%減少
+Cooldown Decreased by {0}%
 
-SG消費量{0}%減少
+SG Consumption Decreased by {0}%
 
-進行率{0}/{1}({2}%)
+Completion Rate {0}/{1}({2}%)
 
 進行率
 
 {0}%
 
-ステージ変更
+Stage 変更
 
 難易度変更
 
-入場({0})
+Enter ({0})
 
-中止({0})
+End {0})
 
 {0}-{1}
 
-入場可能
+Entry is permitted.
 
 Lv{0} {1}
 
@@ -2671,36 +2671,36 @@ Lv{0} {1}
 
 ログインチェック
 
-累積回数
+Cumulative Days:
 
-報酬
+Rewards
 
-報酬受け取り
+Claim Reward
 
-デイリーログイン報酬
+Daily Login Reward
 
-残り時間
+Time Left
 
 {0}：{1}：{2}
 
-支給完了
+Payed
 
-待機中
+Waiting
 
-カウントダウンが完了すると、
-報酬を受け取ることができます。
+When the countdown timer elapses,
+you can claim a reward.
 
-ログインチェック報酬
+Login Reward
 
-ログインチェック報酬の支給が完了しました。
+You have received the login reward for logging in.
 
-デイリーログイン報酬
+Daily Login Reward
 
-デイリーログイン報酬の支給が完了しました。
+You have received the reward for logging in today.
 
-報酬支給不可
+Reward Not Paid
 
-インベントリに空きスロットが無いため、報酬を獲得できません。
+Your inventory is full; you cannot receive the reward.
 
 1
 
@@ -2764,25 +2764,25 @@ Lv{0} {1}
 
 31
 
-死亡
+Dead
 
-現在位置：{0}
+Current Location：{0}
 
-対象からの距離が遠すぎます。
+You are too far from the target.
 
 OFFLINE
 
-シーズン.1
+Season 1
 
-シーズン.2
+Season 2
 
-シーズン.3
+Season 3
 
-マイルーム
+My Room
 
-芝生布団キャンプ
+Camping Futon
 
-マイルーム
+Alice Breeze
 
 アリスブリーズ
 
@@ -2794,87 +2794,87 @@ OFFLINE
 
 ソローキャッスル
 
-テストマップ
+Test Map
 
-バトルクリア1
+Battle 1 Cleared
 
-バトルクリア2
+Battle 2 Cleared
 
-第6区域
+Sixth District
 
-カジュアルレイド
+Casual Raid
 
-町レイド
+Town Raid
 
-アポカリプスレイド
+Apocalypse Raid
 
-ロコタウン
+Rocco Town
 
-スチールグレイブ
+Steel Grave
 
-コントロールゾーン43
+Control Zone 43
 
-Rスクエア
+R Square
 
-ベストショータイム
+Best Showtime
 
-カンダスシティ
+Candus City
 
 N-102
 
-フロントライン
+Front Line
 
-ネッドカンパニー
+NED Company
 
-ブレイクアウト
+Breakout
 
-グレイスシティ
+Grace City
 
-コールドレイン
+Cold Rain
 
-ウルフクライ
+Howling Wolf
 
-ジャンクプール
+Junk Pool
 
-エリア9
+Area 9
 
-ルインフォートレス
+Ruin Fortress
 
-コントロールベース
+Control Zone
 
-バスターコア
+Buster Core
 
-アケロン
+Acheron
 
-アークシップ
+Ark Ship
 
-ジャンクジム
+Junk Hive
 
 リフレクション
 
-タワーオブグリード
+Tower of Greed
 
-アイアンアーミー
+Iron Castle
 
-コンクリートジャングル
+Concrete Jungle
 
-ザ・ビッグマウス
+The Big Mouth
 
-ダークストーカーズ
+Forgotten Armory
 
 プレデターズ
 
-ディープコア
+Deep Core
 
-コールドリベンジ
+Cold Revenge
 
 フォガットンアーモリー
 
 ドラゴンスレイヤー
 
-スカイラン
+Skyline
 
-フレイムブレイカー
+Flame Breaker
 
 クイーンネスト
 
@@ -2882,45 +2882,43 @@ N-102
 
 クリムゾンシー
 
-ラストカーニバル
+Last Carnival
 
-ジャンクハイブ
+Junk Hive
 
 バンディットハイウェイ
 
- アイアンキャッスル
+Iron Castle
 
-ロコタウン安全地帯近道
+Rocco Town Shortcut
 
-カンダスシティ安全地帯近道
+Candus City Shortcut
 
-グレイスシティ安全地帯近道
+Grace City Shortcut
 
-ルインフォートレス安全地帯近道
+Ruin Fortress Shortcut
 
-[スチールグレイブ]カンダスシティ
+[Steel Grave]Candus City
 
-[スチールグレイブ]グレイスシティ
+[Steel Grave]Grace City
 
-[スチールグレイブ]ルインフォートレス
+[Steel Grave]Ruin Fortress
 
-ゴールデンシタデル入口
+Golden Citadel Entrance
 
-ゴールデンシタデル
+Golden Citadel
 
-[ゴールデンシタデル]中央広場
+[Golden Citadel]Central Square
 
-[ゴールデンシタデル]第1区域
+[Golden Citadel]First Area
 
-[ゴールデンシタデル]第2区域
+[Golden Citadel]Second Area
 
-[ゴールデンシタデル]第3区域
+[Golden Citadel]Third Area
 
-[ゴールデンシタデル]第4区域
+[Golden Citadel]Fourth Area
 
-[ゴールデンシタデル]空中広場
-
--
+[Golden Citadel]Sky Plaza
 
 -
 
@@ -2934,18 +2932,20 @@ N-102
 
 -
 
-スタリーフォレスト連合加入のためのテストが
-行われる基礎体力訓練場で
-軽い戦闘テストが進行できる。
+-
 
-工事が中断されたロコタウンの建設現場。
-ネッドカンパニーが地下に埋まるソウルを
-抽出しようと試みた工事現場。
+Trial for Starry Forest League Membership
+Complete Basic Combat Training.
+Proceed with the trial.
 
-ロコタウンの捨てられた7番街通り。
-エドガーの戦闘人形の襲撃を防ぎ、
-巨大自爆人形を食い止めて
-都市破壊を阻止せねばならない。
+Rocco's City Construction has been suspended.
+The Soul NED Company occupies the underground.
+Annexation of construction site attempted.
+
+Seventh Avenue Street abandoned Rocco City.
+Prevent Edgar's battle doll attacks.
+Halt the suicidal doll.
+It must not impede the city's demolition. 
 
 狂気のヴェシ「エドガー」が
 国立病院内に自分だけのサーカス団
@@ -3045,11 +3045,11 @@ N-102
 
 0
 
-ワールドマップ
+World Map
 
-アルファモード
+Transparency Mode
 
-基本モード
+Basic Mode
 
 セカンド・ステア
 
@@ -3061,49 +3061,49 @@ N-102
 
 クラウドリーム北部-
 
-ポータル活性
+Active Portal
 
-ポータル非活性
+Inactive Portal
 
-ゲートオープン
+Opened Gate
 
-ゲートクローズ
+Closed Gate
 
-完了
+Completion
 
-進行可能
+Continue
 
-進行中
+In progress
 
-進行待機
+Standby
 
-装備商人：
+Equipment Seller：
 
-雑貨商人：
+General Merchant：
 
-ファッション商人：
+Apparel Merchant：
 
-製作職人：
+Crafter：
 
-強化職人：
+Enhancer：
 
-ペット販売員：
+Pets Salesperson：
 
-乗り物案内係：
+Peddler：
 
-資産管理人：
+Bank Teller：
 
-メール：
+Mail:
 
-ソウリスト：
+Disconnected List：
 
-チュートリアル
+Tutorial
 
-覚醒
+Awakening
 
 胎動する英雄
 
-救出作戦
+Rescue Operation
 
 暗躍の捕食者
 
@@ -3293,85 +3293,85 @@ N-102
 
 スチールグレイブ
 
-チャプター1
+Chapter 1
 
-チャプター2
+Chapter 2
 
-チャプター3
+Chapter 3
 
-チャプター4
+Chapter 4
 
-チャプター5
+Chapter 5
 
-チャプター6
+Chapter 6
 
-チャプター7
+Chapter 7
 
-チャプター8
+Chapter 8
 
-チャプター9
+Chapter 9
 
-チャプター10
+Chapter 10
 
-チャプター11
+Chapter 11
 
-チャプター12
+Chapter 12
 
-チャプター13
+Chapter 13
 
-チャプター14
+Chapter 14
 
-チャプター15
+Chapter 15
 
-ステージ1
+Stage 1
 
-ステージ2
+Stage 2
 
-ステージ3
+Stage 3
 
-ステージ4
+Stage 4
 
-ステージ5
+Stage 5
 
-ステージ6
+Stage 6
 
-ステージ7
+Stage 7
 
-ステージ8
+Stage 8
 
-ステージ9
+Stage 9
 
-ステージ10
+Stage 10
 
-ステージ11
+Stage 11
 
-ステージ12
+Stage 12
 
-ステージ13
+Stage 13
 
-ステージ14
+Stage 14
 
-ステージ15
+Stage 15
 
-ステージ16
+Stage 16
 
-ステージ17
+Stage 17
 
-ステージ18
+Stage 18
 
-ステージ19
+Stage 19
 
-ステージ20
+Stage 20
 
-ステージ21
+Stage 21
 
-ステージ22
+Stage 22
 
-ステージ23
+Stage 23
 
-ステージ24
+Stage 24
 
-ステージ25
+Stage 25
 
 スタリーフォレスト連合の隊員が戦闘能力を試す場所。
 試験用に改造されたロボットがスタリーフォレスト連合の隊員を待ち構える。
@@ -3899,7 +3899,7 @@ Q.B.D[強化保護]を適用して強化すると、Q.B.D[強化保護]を1個�
 アイテム購入失敗：BP不足
 
 使用時、設定していた全てのスキルが初期化されます。
-本当に使用しますか?
+Are you sure you want to use this? 
 
 インベントリにあるアイテムのみ封印できます。
 
@@ -4218,104 +4218,104 @@ SG比率100%回復ポーション購入可能
 
 搭乗
 
-安全地帯{0}に移動しますか?
-必要ジェニー：{1}
+Do you want to move to a safe zone?
+Zenny Fee：{1}
 
-必要ジェニー：
+Zenny Fee：
 
-攻撃及び回復型
+Attack/Recovery Type
 
-遠距離攻撃型
+Long-Range Attack
 
-突進及び状態異常
+Abnormal Rushing State
 
-遠距離支援射撃
+Long-Distance Support Attack
 
-近距離攻撃型
+Short-Range Attack
 
-近距離範囲型
+Short-Distance Type
 
-近距離範囲型
+Short-Distance Type
 
-補助及びバフ型
+Auxillary Buff Type
 
-近距離攻撃型
+Short-Range Attack
 
-状態異常及び攻撃型
+Abnormal Attack State
 
-近距離攻撃型
+Short-Ranged Attack
 
-召喚
+Summon
 
-召喚解除
+Recall
 
-詳細情報
+Detailed Info
 
-サポーター専用装備
+Supporters' Equips
 
-報酬受け取り
+Rewards Received
 
-支援登録
+Register 
 
-攻撃のオーブ
-支援登録
+Attack Orb
+Activate
 
-キャラクター攻撃力の20%適用
+Increases the character's attack power by 20%
 
-防御のオーブ
-支援登録
+Defense Orb
+Activate
 
-キャラクター防御度の20%適用
+Increases the character's defense by 20%
 
-攻撃のオーブ[キャラクター攻撃力20%適用]で支援登録しますか?
+Are you sure you want to apply the attack orb's 20% attack power buff?
 
-防御のオーブ[キャラクター防御度20%適用]で支援登録しますか?
+Are you sure you want to apply the defense orb's 20% attack power buff?
 
-登録内容
+Applied Buffs
 
-攻撃力：{0}
+Attack Increased：{0}
 
-防御度：{0}
+Defense Increased：{0}
 
-支援終了時間：
+Buff End Time：
 
-支援終了：報酬受領後、再登録可能
+After the buff ends, you can re-apply the buff again.
 
 フレンド支援が終了しました。新たに支援登録ができます。
 
-ショートカットキー設定
+Hotkeys
 
 {0}/{1}
 
-フレンド装備選択
+Select Supporters' Equipment
 
-装備
+Equipment
 
-{0}({1})が解除され、消滅しました。新しい支援装備を着用できます。
+{0}({1}) is released. You can equip new support equipment.
 
-メイズ離脱によりサポーターの召喚が解除されました。
+The supporters have been withdrawn because you have left the dungeon.
 
-{0}の召喚が解除されました。
+Summoning of {0} has been canceled. 
 
-特性
+Trait
 
-サポーターリスト
+Supporters List
 
-使用中
+Active
 
-使用者とのレベル差が5以上ある場合、サポーターのレベルに合わせて能力値が減少します。
+If there is a level difference of 5 or more; the combat abilities of the supporters will decrease proportionately.
 
-使用者とのレベル差が5以上ある場合、使用者のレベルに合わせて能力値が減少します。
+If there is a level difference of 5 or more; the combat abilities of the user will decrease proportionately.
 
-適用：{0}
+Apply：{0}
 
-召喚順序変更
+Change Supporter
 
-サポーター召喚
+Active Supporters
 
-攻撃のオーブ
+Attack Orb
 
-防御のオーブ
+Defense Orb
 
 召喚中のサポーターを解除すると、着用中のオーブが消滅します。このまま続けますか?
 
@@ -4331,696 +4331,696 @@ SG比率100%回復ポーション購入可能
 
 インベントリ空間が不足しているため、支援報酬を受け取れません。
 
-召喚設定
+Toggle Settings
 
-呼び戻し
+Recall
 
-ソロプレイ時のみ召喚できます。
-
-ON
-
-OFF
-
-全て表示
-
-パーティーメンバーのみ表示
-
-同じギルドのみ表示
-
-全て非表示
-
-常に表示
-
-攻撃時表示
-
-非表示
-
-表示
-
-非表示
+You can only summon the supporters during solo play.
 
 ON
 
 OFF
 
-一回押し
+Show all
 
-長押し
+Display only party members
 
-使用可能時表示
+Display only guild members
 
-全て許容
+Hide All
 
-フレンドのみ許容
+Show Always
 
-全て拒否
+Display when attacking
 
-変更
+Disable
 
-キーを入力してください。
+Show
 
-テキストを入力してください。
+Disable
 
-ウィンドウモード
+ON
 
-全体ウィンドウモード
+OFF
 
-全画面
+Single Press
 
-最下
+Hold Down
 
-下
+Display if possible
 
-中
+Allow All
 
-上
+Allow Friends Only
 
-最上
+Deny All
 
-プロジェクション
+Change
+
+Please enter the hotkey.
+
+Please enter some text.
+
+Windowed Mode
+
+Full Window Mode
+
+Full Screen
+
+Lowest
+
+Low
+
+Medium
+
+High
+
+Best
+
+Show
 
 円
 
 {0} pt
 
-固定
+Fixed Mode
 
-回転
+Rotating Mode
 
-操作設定
+Camera Settings
 
-操作方法設定
+System Preferences
 
 FIXED CAMERA MODE
 
-カメラとキャラクターの向きが一致し、カメラ回転時にキャラクターの方向が変わります。
+The camera moves in the same orientation as the character.
 
-移動キー2回入力で回避
+The camera display is fixed.
 
 FREE CAMERA MODE
 
-カメラとキャラクターを分離し、自由に視点を変更できます。
+The camera's perspective is isomorphic to the character. You can freely move the camera.
 
-カメラの方向に攻撃
+Attacks are based on the camera's direction.
 
-カメラ視点
+Camera 
 
-キャラ視点
+Character 
 
-ゲームパッド使用
+Use Auxillary Controller
 
-回避後ダッシュ使用
+Dash to Dodge
 
-その他設定
+Miscallaneous Settings
 
-ゲーム設定
+System Prefrences
 
-表示情報
+Display Information
 
-キャラクター名
+Show Character Names
 
-ギルド名
+Show Guild Names
 
-称号
+Show Titles
 
-敵名
+Show Enemy Names
 
-敵HP
+Show HP
 
-NPC名
+Show NPC Names
 
-吹き出し
+Show Chat Bubbles
 
-自己ダメージ情報
+Show Personal Damage
 
-味方ダメージ情報
+Show Ally Damage
 
-対象ダメージ情報
+Show Object Damage
 
-カメラ
+Camera Settings
 
-スキル演出カメラ
+Camera Skill FX
 
-カメラシェイク
+Shake Screen
 
-カメラ感度
+Camera Sensitivity
 
-インターフェース
+Interface
 
-UIスケール
+UI Scaling
 
-ドロップアイテム名
+Item Drop Names
 
-アカシックモード転換
+Activate Awakening Mode
 
-スキルナビゲーション
+Show Chain Skill
 
-キャラクター状態演出
+Show Character State
 
-ミニマップ回転
+Minimap Rotating
 
-マウス感度
+Mouse Sensitivity
 
-メッセージ受信
+Incoming Message
 
-ささやき
+Whisper
 
-個人取引
+Trade
 
-パーティー招待
+Party Invitation
 
-ギルド招待
+Guild Invitation
 
-フレンド登録
+Friend Request
 
-情報表示
+Display Info
 
-その他
+Other Settings
 
-スクリーンショット保存場所
+Screenshot Location
 
-スクリーンショット保存場所選択
+Select Screenshot Save Location
 
-スクリーンショット保存キー
+Screenshot Hotkey
 
-ゲーム設定初期化
+Default Settings
 
-自分の攻撃情報表示
+Display NPC Attack Info
 
-味方の攻撃情報表示
+Display Ally Attack Info
 
-グラフィック設定
+Graphics Settings
 
-画面
+Screen Settings
 
-画面モード
+Screen Mode
 
-解像度
+Game Resolution
 
-品質
+Quality Controls
 
-全体品質
+Overall Quality
 
-影表現
+Shadow Details
 
-影品質
+Shader Quality
 
-可視距離
+Viewing Distance
 
-事物視野の距離
+Object Textures Distance
 
-地形視野の距離
+Environmental Textures Distance
 
-明るさ
+Brightness
 
-対比
+Contrast
 
-ガンマ[全画面専用]
+Gamma Offset[Full Screen Only]
 
-浸透効果
+Leaking Effect
 
-残像効果
+Afterimage Effect
 
-グロー効果
+Glow Effect
 
-アウトフォーカス
+Defocus Effect
 
-破壊物理適用
+Object Destruction Effect
 
-アンチエイリアス
+Anti-Aliasing
 
-垂直同期化
+V-Sync
 
-自動最適化
+Optimize Game Settings (Auto)
 
-サウンド設定
+Sound Settings
 
-ボリューム
+Volume Control
 
-全体
+Master Volume
 
-効果音
+Sound Effects
 
-環境音
+Environmental Sound Effects
 
-背景音
+BGM
 
-音声
+Voice Volume
 
-キー設定
+Key Settings
 
-操作
+Gameplay Controls
 
-前に移動
+Move Forward
 
-後ろに移動
+Move Backwards
 
-左に移動
+Move Left
 
-右に移動
+Move Right
 
-ジャンプ
+Jump
 
-回避
+Dodge
 
-自動前進
+Auto-Run
 
-振り返り
+Reverse Camera
 
-通常攻撃
+Normal Attack
 
-特殊攻撃
+Special Attack
 
-サブウェポン攻撃
+Sub-Weapon Attack
 
-ブレイクスキル使用
+Break Skill
 
-高速スキルデッキ連携
+Activate Skill Deck
 
-クイックスロット
+Quick Slot
 
-スキル1
+Quick Slot 1
 
-スキル2
+Quick Slot 2
 
-スキル3
+Quick Slot 3
 
-スキル4
+Quick Slot 4
 
-スキル5
+Quick Slot 5
 
-スキル6
+Quick Slot 6
 
-アイテム1
+Item 1
 
-アイテム2
+Item 2
 
-A.Rカード1
+A.R Card 1
 
-A.Rカード2
+A.R Card 2
 
-A.Rカード3
+A.R Card 3
 
-A.Rカード4
+A.R Card 4
 
-A.Rカード5
+A.R Card 5
 
-機能
+Functions
 
-ささやき返信
+Reply to Whisper
 
-アイテム回収
+Item Recovery
 
-アイテム名確認
+Confirm Item
 
-アカシックモード転換
+Activate Awakening Mode
 
-武器の出し入れ
+Weapon Equip Toggle
 
-カメラ
+Camera Settings
 
-カメラズームイン
+Camera Zoom In
 
-カメラズームアウト
+Camera Zoom Out
 
-カメラ上に回転
+Rotate Camera Up
 
-カメラ下に回転
+Rotate Camera Down
 
-カメラ左に回転
+Rotate Camera Left
 
-カメラ右に回転
+Rotate Camera Right
 
 UI
 
-UIモード転換
+Change UI
 
-UI非表示
+Toggle UI Interface
 
-ステータス表示
+Display Status Window
 
-装備情報表示
+Display Equipment Window
 
-インベントリ表示
+Display Inventory Window
 
-スキル表示
+Display Skills Window
 
-クエストジャーナル表示
+Display Quest Log
 
-コミュニティー表示
+Display Community Interface
 
-進行情報表示
+Personal Achievements
 
-ギルド表示
+Display Guild Window
 
-全体マップ表示
+Display Map
 
-システムメニュー表示
+System Menu 
 
-チャット
+Chat
 
-マクロチャット1
+Macro Chat 1
 
-マクロチャット2
+Macro Chat 2
 
-マクロチャット3
+Macro Chat 3
 
-マクロチャット4
+Macro Chat 4
 
-マクロチャット5
+Macro Chat 5
 
-マクロチャット6
+Macro Chat 6
 
-マクロチャット7
+Macro Chat 7
 
-マクロチャット8
+Macro Chat 8
 
-マクロチャット9
+Macro Chat 9
 
-マクロチャット10
+Macro Chat 10
 
-ラジオチャット1
+Radio Chat 1
 
-ラジオチャット2
+Radio Chat 2
 
-ラジオチャット3
+Radio Chat 3
 
-ラジオチャット4
+Radio Chat 4
 
-ラジオチャット5
+Radio Chat 5
 
-ラジオチャット6
+Radio Chat 6
 
-その他
+Other
 
-キー設定初期化
+Default Settings
 
-ターゲッティング
+Targeting
 
-マイルームに入場
+Go to My Room
 
-サポーターリスト表示
+Display Supporter Window 
 
-パーティー検索表示
+Display Party Listings
 
-チャット設定
+Chat Settings
 
-パーティー自動チャット
+Party Auto-Chat
 
-自動チャット使用
+Auto-Chat 
 
-自動チャット表示位置
+Show Auto-Chat During
 
-パーティーに参加
+On joining a party
 
-新しいメンバーが参加
+When a new party member joins
 
-メイズ入場
+On Dungeon Start
 
-メイズクリア
+On Dungeon Clear
 
-本人のレベルアップ
+On level up
 
-メンバーのレベルアップ
+On party member level up
 
-メンバーからバフを受ける
+When receiving a buff
 
-戦闘不能状態になる
+On Incapcitation
 
-メンバーによる復活
+On Resurrection
 
-マクロチャット
+Macro Chat
 
-マクロテキスト{0}
+Macro Text{0}
 
-マクロテキスト1
+Macro Text 1
 
-マクロテキスト2
+Macro Text 2
 
-マクロテキスト3
+Macro Text 3
 
-マクロテキスト4
+Macro Text 4
 
-マクロテキスト5
+Macro Text 5
 
-マクロテキスト6
+Macro Text 6
 
-マクロテキスト7
+Macro Text 7
 
-マクロテキスト8
+Macro Text 8
 
-マクロテキスト9
+Macro Text 9
 
-マクロテキスト10
+Macro Text 10
 
-会話メッセージ色
+Message Text Color
 
-全体
+Overall
 
-取引
+Trade
 
-パーティー
+Party
 
-ギルド
+Guild
 
-ささやき
+Whisper
 
-叫び
+Shout
 
-システム
+System
 
-イベント
+Event
 
-告知事項
+Notice
 
-NPCセリフ
+NPC Dialogue
 
-ストーリーセリフ
+Storyline
 
-システムメッセージ色
+System Message Color
 
-攻撃関連
+Attack-related
 
-ダメージ関連
+Damage-related
 
-回復関連
+Recovery-related
 
-ステータス関連
+Status-related
 
-死亡関連
+Death-related
 
-スキル関連
+Skill-related
 
-バフ関連
+Buff-related
 
-EXP関連
+EXP-related
 
-レベルアップ関連
+Level up
 
-SP関連
+SP-related
 
-アイテム獲得関連
+Item acquisition
 
-チャンネル関連
+Channel-related
 
-パーティー関連
+Party-related
 
-ギルド関連
+Guild-related
 
-画面設定
+Screen Settings
 
-背景色
+Background Color
 
-フォントサイズ
+Font Size
 
-活性化時透明度
+Active (Transparency)
 
-非活性化時透明度
+Inactive (Transparency)
 
-その他
+Other Settings
 
-チャット設定初期化
+Default Settings
 
-【{0}】キーは別の操作キーで使用しています。
-この操作キーの設定を変更しますか?
+【{0}】 hotkey is in use by another function.
+Do you want to override the setting for this hotkey?
 
-【{0}】キーはショートカットキーに使用できません。
-別のキーを指定してください。
+【{0}】 can't be used as a hotkey.
+Please use a different hotkey.
 
-メモリアル表示
+Display Memorial Interface
 
-取引所表示
+Display Auction House
 
-スクリーンショット品質
+Screenshot Quality
 
-JPG：低い
+JPG： Low
 
-BMP：高い
+BMP： High
 
-カスタマイズ設定
+Customize Settings
 
-エフェクト最小化
+Optimize for Low-Performance
 
-適用
+Apply
 
-未適用
+Disable
 
-※品質は低下しますが、円滑なプレイが可能です。
+※The game's performance has been increased at the expense of decreased quality.
 
-アンチエイリアス効果は、ゲームを再起動すると適用されます。
+Anti-aliasing will apply upon restarting the game.
 
 操作キー案内表示
 
-サポーター呼び戻し
+Recall Supporters
 
-サポーター召喚クールタイムです。
-({0}秒)
+Supporters Summoning Cooldown Time
+({0} seconds)
 
-STARTボタンとの組み合わせはできません。
+START can't be used as a gameplay button.
 
-パーティクル品質
+Particle FX
 
-FPS表示
+FPS Display
 
-自動アイテム回収
+Auto-Loot
 
-{0}キーとの組み合わせは設定できません。
+{0} can't be used as a combination key.
 
 {0}キーと組み合わせた設定をしてください。
 
 基本FPが全回復しました。
 
-ボーナス疲労度{0}
+Bonus Fatigue {0}
 
-獲得戦闘EXP10%増加
+Increase EXP gain by 10%.
 
-疲労度{0}
+Fatigue{0}
 
-FP情報
+FP Details 
 
-所持金
+Zenny
 
-ソウルウェポン
+Soul Weapon
 
-ギア
+Gear
 
-アクセサリー
+Accessories
 
-アクセサリー
+Accessories
 
-アクセサリー
+Accessories
 
-装備登録
+Showcase Product
 
-消費
+Consumables
 
-機能
+Utility Items
 
-外見
+Appearance
 
-A.Rカード
+A.R Card
 
-家具
+Furniture
 
-アバター
+Avatar
 
-称号
+Title
 
-材料
+Material
 
-サポーター
+Supporters
 
-アーティファクト
+Artifact
 
-クエスト
+Quest
 
-設計図
+Blueprint
 
-ファミリア
+Familia
 
-ジェニー
+Zenny
 
-ソウルベイパー
+Soul Vapor
 
-ブッカーズポイント
+BP
 
-エーテル
+Ether
 
-ハンコイン
+HanCoin
 
-Sコイン
+S Coin
 
-ソウルウェポン
+Soul Weapon
 
-サブウェポン
+Sub-Weapon
 
-ヘッド
+Head
 
-ショルダー
+Shoulder
 
-ボディ
+Body
 
-レッグ
+Leg
 
-ペンダント
+Pendant
 
-イヤリング
+Earrings
 
-リング
+Ring
 
-ファミリア
+Familia
 
-ブローチ
+Brooch
 
-一般消費
+General Consumables
 
-FP消費
+Personal Consumables
 
-機能
+Function
 
-髪型
+Hair
 
-ヘアカラー
+Hair Color
 
-アイカラー
+Eye Color
 
-スキンカラー
+Skin Color
 
-A.Rカード
+A.R Card
 
-A.Rカードキー
+A.R Card Key
 
-A.Rカードボックス
+A.R Card Package
 
-カード
+Card
 
-家具
+Furniture
 
-武器
+Weapon
 
-頭
+Head
 
-帽子
+Hat
 
-目1
+Primary Head
 
-口
+Mouth
 
-上衣
+Body
 
-手
+Hand
 
-下衣
+Next
 
-尻尾
+Rear
 
-靴
+Shoes
 
-タイツ/靴下
+Tights/Socks
 
-背
+Back
 
-下着
+Underwear
 
 上衣+下衣一体型
 
@@ -5082,7 +5082,7 @@ A.Rカードボックス
 
 鍵
 
-クエストアイテム
+Quest Item
 
 装備設計図
 
@@ -5314,7 +5314,7 @@ A.Rカードボックス
 
 鍵
 
-クエストアイテム
+Quest Item
 
 ソウルウェポン
 
@@ -5526,7 +5526,7 @@ A.Rカードキー
 
 アーティファクト
 
-クエストアイテム
+Quest Item
 
 ソウルウェポン設計図
 
@@ -8126,7 +8126,7 @@ AIルーシーによって防御装置が作動しています。
 
 磁気フィールドが除去されました。
 
-スチールグレイブは1日1回、全部で5個のステージに挑戦できます。
+スチールグレイブは1日1回、全部で5個のStage に挑戦できます。
 
 コントローラーを操作すると、敵が出現します。
 
@@ -9392,7 +9392,7 @@ NEW
 
 選択したセットを装着しますか?
 
-選択したセットを削除しますか?
+Are you sure you want to discard this?
 
 アイテム検索には2文字以上の入力が必要です。
 
@@ -9497,7 +9497,7 @@ Skip
 
 スチールグレイブ
 
-チャプター選択
+Chapter 選択
 
 敵情報
 
@@ -9505,7 +9505,7 @@ Skip
 
 {0}>{1}
 
-最大進行チャプター
+最大進行Chapter 
 
 STAGE
 
@@ -9515,11 +9515,11 @@ CLEAR
 
 特殊ミッション報酬
 
-確認を押すと、次のステージに移動します。
+確認を押すと、次のStage に移動します。
 
 確認
 
-チャプターをクリアしました。町に移動できます。
+Chapter をクリアしました。町に移動できます。
 
 出る
 
@@ -10971,7 +10971,7 @@ SGが不足しているため、スキルを使用できません。
 アクセスエラーです。
 データが有効ではありません。
 
-まだステージ進行中です。
+まだStage 進行中です。
 
 入場に必要な条件を満たしていません。
 まだ訪問していない町を確認してください。
@@ -11134,9 +11134,9 @@ SGが不足しているため、スキルを使用できません。
 
 週間キルポイント
 
-チャプター進行状況
+Chapter 進行状況
 
-ステージ進行状況
+Stage 進行状況
 
 段階
 
@@ -11154,4 +11154,4 @@ SGが不足しているため、スキルを使用できません。
 
 クリア
 
-ステージ
+Stage 
