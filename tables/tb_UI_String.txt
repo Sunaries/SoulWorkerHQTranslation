@@ -2502,7 +2502,6 @@ A.Rカード「{0}」を
 Are you sure you want to discard this?
 
 {0} of {1}
-
 Do you want to rent this A.R. Card?
 Rental Period:{2}; Zenny Fee: {3}
 Total Zenny after Rental:{4}
@@ -3900,6 +3899,7 @@ Q.B.D[強化保護]を適用して強化すると、Q.B.D[強化保護]を1個�
 アイテム購入失敗:BP不足
 
 使用時、設定していた全てのスキルが初期化されます.
+Are you sure you want to use this? 
 
 インベントリにあるアイテムのみ封印できます.
 
